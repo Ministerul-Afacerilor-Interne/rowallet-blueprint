@@ -1,0 +1,1925 @@
+# RO Wallet Blueprint
+
+> Architecture, governance, and operational models for the RO Wallet Ecosystem.
+
+Version: latest
+
+This file contains the complete documentation content for the RO Wallet Blueprint.
+
+## Wallet Function: PID Issuance and Presentation
+
+<!-- RO modification: Wallet Function: PID Issuance and Presentation -->
+# Wallet Function: PID Issuance and Presentation
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Wallet Function: (Q)EAA Issuance and Presentation
+
+<!-- RO modification: Wallet Function: (Q)EAA Issuance and Presentation -->
+# Wallet Function: (Q)EAA Issuance and Presentation
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Pseudonym
+
+<!-- RO modification: Pseudonym -->
+# Pseudonym
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Wallet Function: Combined Presentation
+
+<!-- RO modification: Wallet Function: Combined Presentation -->
+# Wallet Function: Combined Presentation
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## EAA Disclosure Policies
+
+<!-- RO modification: EAA Disclosure Policies -->
+# EAA Disclosure Policies
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## EUDI Wallet Link Governance and Implementation Hints
+
+<!-- RO modification: EUDI Wallet Link Governance and Implementation Hints -->
+# EUDI Wallet Link Governance and Implementation Hints
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## OID4VC Protocol Integration
+
+<!-- RO modification: OID4VC Protocol Integration -->
+# OID4VC Protocol Integration
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## PID Option B': Authenticated Channel with Cloud Support
+
+<!-- RO modification: PID Option B': Authenticated Channel with Cloud Support -->
+# PID Option B': Authenticated Channel with Cloud Support
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## PID Option B: Authenticated Channel with eID Card (B) with mDoc, ISO REST API
+
+<!-- RO modification: PID Option B: Authenticated Channel with eID Card (B) with mDoc, ISO REST API -->
+# PID Option B: Authenticated Channel with eID Card (B) with mDoc, ISO REST API
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## PID Option B: Authenticated Channel with eID Card
+
+<!-- RO modification: PID Option B: Authenticated Channel with eID Card -->
+# PID Option B: Authenticated Channel with eID Card
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## PID Option D: Authenticated Channel with Secure Element
+
+<!-- RO modification: PID Option D: Authenticated Channel with Secure Element -->
+# PID Option D: Authenticated Channel with Secure Element
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## PID Option C'': Signed Credential with eID Card
+
+<!-- RO modification: PID Option C'': Signed Credential with eID Card -->
+# PID Option C'': Signed Credential with eID Card
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## PID Option C: Signed Credential with Secure Element
+
+<!-- RO modification: PID Option C: Signed Credential with Secure Element -->
+# PID Option C: Signed Credential with Secure Element
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Presentation during Issuance
+
+<!-- RO modification: Presentation during Issuance -->
+# Presentation during Issuance
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Wallet Attestation
+
+<!-- RO modification: Wallet Attestation -->
+# Wallet Attestation
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Archive
+
+<!-- RO modification: Archive -->
+# Archive
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(Ecosystem-concepts)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(Crosscutting-concepts)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(3)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(4)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(5)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(6)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Trust in the RO Wallet Ecosystem
+
+<!-- RO modification: Trust in the RO Wallet Ecosystem -->
+# Trust in the RO Wallet Ecosystem
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Trust Management in the RO Wallet Ecosystem
+
+<!-- RO modification: Trust Management in the RO Wallet Ecosystem -->
+# Trust Management in the RO Wallet Ecosystem
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## National RO Wallet Trust List Publication Procedure
+
+<!-- RO modification: National RO Wallet Trust List Publication Procedure -->
+# National RO Wallet Trust List Publication Procedure
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Overasking Protection
+
+<!-- RO modification: Overasking Protection -->
+# Overasking Protection
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## PKI and Trust Anchor
+
+<!-- RO modification: PKI and Trust Anchor -->
+# PKI and Trust Anchor
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Status Management
+
+<!-- RO modification: Status Management -->
+# Status Management
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Trust Validation Overview
+
+<!-- RO modification: Trust Validation Overview -->
+# Trust Validation Overview
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Trust in EAA Issuance and Presentation
+
+<!-- RO modification: Trust in EAA Issuance and Presentation -->
+# Trust in EAA Issuance and Presentation
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Trust in PID Issuance and Presentation
+
+<!-- RO modification: Trust in PID Issuance and Presentation -->
+# Trust in PID Issuance and Presentation
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Trust in QEAA and PubEAA Issuance and Presentation
+
+<!-- RO modification: Trust in QEAA and PubEAA Issuance and Presentation -->
+# Trust in QEAA and PubEAA Issuance and Presentation
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Wallet-Relying Party Authentication
+
+<!-- RO modification: Wallet-Relying Party Authentication -->
+# Wallet-Relying Party Authentication
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Vision & Fundamentals
+
+<!-- RO modification: Ecosystem Vision & Fundamentals -->
+
+# Ecosystem Vision & Fundamentals
+
+## Unlocking Value Creation: How the RO Wallet Ecosystem Benefits Public and Private Organizations
+
+This chapter aims to provide an overview of the value proposition of the RO
+Wallet Ecosystem for organizations. The RO Wallet Ecosystem offers significant
+value for both public and private organizations by providing a secure,
+interoperable and user-centric framework to utilize the standardized RO Wallet
+features. By integrating the RO Wallet into their processes, organizations can
+drive efficiency, reduce fraud, and improve user experience, all while ensuring
+compliance with the eIDAS regulation. The RO Wallet Ecosystem provides the
+following value for public and private organizations in roles where they provide
+and consume attestations through the RO Wallet Ecosystem:
+
+### Organizations that act as relying parties and consume attestations
+
+Better customer satisfaction
+
+- Higher conversion rates facilitate market reach through optimized UX
+- Streamline the onboarding process for customers in a recognizable way by using
+  the wallet for multiple processes
+- Digitized processes simplify access to goods and services
+
+Electronic attestations incentivize digitization of business processes:
+
+- Digitize the full business process: enable Relying Parties to utilize multiple
+  EAAs issued by public and private (Q)EAA Providers
+- Reduce fraud: attested data signed by a trusted authority hinder manipulation
+  of data provided by the user
+- Automated processing by Relying Parties due to standardized format for the
+  provision of EAA (schema), esp. reduce data entry errors
+- Opportunity to create value added services requiring secure user
+  identification and authentication
+
+Efficiency and cost reduction
+
+- Reduce operational costs by achieving significant efficiency gains
+- Drive down costs for identification and ID verification
+- Reduce administrative burden
+- Reduce inconsistencies by minimizing the need for repeated data submissions
+
+Secure and trusted transactions
+
+- Reduce risks associated with cybercrime like identity theft and online fraud
+- Protect against unauthorized or fraudulent use
+- Build trust among users and service providers
+- Each organisation that wants to interact with an EUDI Wallet, needs to be
+  authenticated before.
+
+Harmonization and interoperability
+
+- Guarantee availability and reach in the EU and aim for global reach
+- One technical interface for all wallets
+- Digital identities are accepted regardless of the Member State
+- Ensure secure transactions across borders: The EUDI Wallet is a harmonized
+  approach to trust, security, and interoperability for electronic
+  identification and authentication:
+
+Wallet-Relying Parties in the role of EAA Providers
+
+- Manage assets and related access rights through EAA loaded into the user
+  wallet
+- Increasing the usage frequency of the wallet by issuing EAA for multiple
+  domains triggers network effects
+
+Legal and regulatory compliance
+
+- Assure compliance with Union data protection and security laws: data
+  minimization, purpose limitation, and data protection by design and by default
+- Reliable expression of will by the User
+- Take informed decisions on trust level according to risk level of transaction
+
+### Organizations that act as relying parties and provide attestations
+
+Non-discriminatory, interoperable access to EUDI wallets enable EAA Providers to
+issue electronic attestations to all users, enhancing trust, privacy, and fraud
+prevention while reducing manual effort. Private EAA Providers from different
+business domains augment the value of the whole ecosystem, public stakeholders
+included.
+
+Value creation through attestation issuance
+
+- Reduce costs for issuing paper based attestations, especially with higher
+  security requirements
+- Reduce costs for issuing and maintaining card based attestations, e.g. door
+  keys or benefits cards, without the need to develop and maintain an own app
+- Minimize manual labor by automating the issuance process
+- The more EAA are issued and requested by relying parties the more the wallet
+  is attractive for the users (network effect)
+
+European Digital Identity Wallets create a level playing field for EAA Providers
+
+- Legal framework guarantees non-discriminatory access to all EUDI wallets for
+  all EAA Providers (no restrictions to specific wallets)
+- Interoperability assures a maximum reach to EUDI wallets for EAA Providers
+
+Registered EAA Providers establish trust for the common ecosystem
+
+- The authenticity of the EAA Provider is controlled by the EUDI wallet,
+  assuring that only registered EAA Providers can issue attestations to the EUDI
+  wallet
+- Relying Parties can assure that a certain EAA Provider is registered by a
+  member state
+
+Relying Parties/Domains in the role of EAA Providers
+
+- Use EAA for sharing personal customer data with third parties: get explicit
+  customer consent, avoid insecure transmission channels
+- Manage assets and related access rights through EAA loaded into the user
+  wallet
+- Augment the usage frequency of the wallet by issuing EAA for multiple domains
+
+### Organizations that act as EUDI wallet providers to serve citizens
+
+<!-- Removed in RO Wallet -- German government decisions on non-governmental wallets, becoming a Wallet Provider and open-sourcing its wallet; replaced by the RO statement below -->
+
+<!-- RO addition: Ecosystem Vision & Fundamentals -->
+In Romania, the initial priority is the development and operationalisation of the state-provided RO Wallet. The introduction of privately provided EUDI Wallets is planned for 2028, subject to further regulatory and technical considerations. The RO Wallet application source code is scheduled to be published in December 2026 on the official GitHub account of the Ministry of Internal Affairs (MAI). An assessment is under way to determine which components will be published; components such as the eID Server will remain non-public for security reasons.
+
+Becoming a non-government EUDI wallet provider offers e.g. the following
+opportunities for organizations:
+
+- Offer value added services for natural persons on top of the EUDI wallet scope
+- Improve/retain customer relationship by integrating EUDI Wallet functions into
+  existing customer apps
+- Bundling services and maximizing synergies as a Qualified Trust Service
+  Provider (QTSP) by offering EUDI Wallet, Qualified Electronic Signature (QES),
+  and Qualified Electronic Attribute Attestation (QEAA) while leveraging
+  economies of scale.
+
+---
+
+## RO Wallet Ecosystem Governance and Operating Model Fundamentals
+
+<!-- RO modification: Governance and Operating Model -->
+# RO Wallet Ecosystem Governance and Operating Model Fundamentals
+
+This section presents the core principles and foundational concepts for the
+design and implementation of the RO Wallet Ecosystem governance and
+RO Wallet infrastructure operating model based on the EU eIDAS regulation
+adapted to the Romanian context. This document is created iteratively and is
+continuously expanded and adapted. We value your feedback and suggestions and
+will integrate them into our FAQ and future updates.
+
+## Empowering Citizens and Residents: Real Choices for Self-Determination with Safeguards in the Digital Realm
+
+<!-- RO addition: Governance and Operating Model -->
+During the initial phase, the RO Wallet solution will be
+available to **Romanian citizens who hold an electronic identity card (CEI)**.
+Extending the availability of the RO Wallet solution to Romanian citizens holding other identity documents, and to foreign residents in
+Romania is being assessed and considered for a subsequent development phase
+during 2027.
+
+The aim of this chapter is to provide an overview about the value proposition of
+the RO Wallet Ecosystem for citizens and residents.RO Wallet empowers users by simplifying access to services,
+reducing administrative burdens, and offering full control over personal data,
+while ensuring privacy, security, and legal recognition of electronic
+attestations and signatures across the EU. The RO Wallet Ecosystem provides
+the following value for citizens and residents:
+
+Comfort and efficiency
+
+- Wallet as digital assistant for managing all kind of attestations in one place
+- Leaving physical documents at home
+- Good user experience
+- Simplified onboarding process for new services
+- Reduce administrative hurdles for users
+
+Better access to services
+
+- Non-discriminatory access for all actors
+- Access to wide range of public and private services across the European Union
+  both online and offline
+- Opportunity to providing fully digitized business processes
+- Enable powers of representation (e.g. natural and legal persons)
+- Support of cross-border mobility
+- Interoperable e-government services
+
+Control and transparency over personal data
+
+- Exercise their rights in the digital economy/society
+- Decide what personal data is shared with whom (digital identity under their
+  sole control)
+- Identify the Relying Party the personal data is shared with (accountability of
+  the RP)
+- Identify the PID or (qualified) EAA provider from which the PID/EAA was issued
+- Access a summary of personal data exchanged with Relying Parties and
+  PID/(Q)EAA providers, along with details of electronic signatures generated
+
+Enhanced privacy for sharing personal data digitally
+
+- Enable privacy preserving techniques which ensure unlinkability, where the
+  attestation of attributes does not require the identification of the user
+- Relying Parties are not allowed to force the identification of users without
+  legal basis and shall not refuse the use of pseudonyms, where the
+  identification of the user is not required by Union or national law
+- Support the pseudonymous use of services:Relying parties shall not refuse the
+  use of pseudonyms, where the identification of the user is not required by
+  Union or national law
+- Data minimization: only personal data that is absolutely required for the
+  business process is shared with Relying Parties
+- Compared to presenting physical documents, only data that is strictly needed
+  is shared within the use electronic attestations
+- Unobservability – ensuring that neither the wallet provider nor the
+  (qualified) EAA providers can monitor user activities.
+
+High security level
+
+- High level of security and trustworthiness
+- Decentralized architecture with no single eID database for all users reducing
+  impact of data breaches (Romanian eID/ RO Wallet Ecosystem)
+- Protection against cybersecurity risks and cybercrime, identity theft and
+  online fraud19
+- Safeguarding personal information from unauthorized or fraudulent use
+- Support Strong User Authentication to replace user name/password
+  authentication
+
+Legal recognition and harmonization
+
+- **The use of the RO Wallet is entirely voluntary, and individuals are free to
+  choose whether or not to use it, without facing any negative consequences**
+
+- Every citizen and resident has the right to get access to and to use RO Wallet
+  free of charge across all member states
+- Electronic attestations of attributes issued by the public sector have the
+  same legal value as paper attestations across the Union (for PubEAA)
+- Empower citizens and residents to fully benefit from digitalization
+
+Free Qualified Electronic Signatures for non-professional use
+
+- Provide citizens and residents with a reliable and legally recognized means to
+  sign documents digitally
+- Provide citizens and residents with free of charge qualified electronic
+  signatures for non-professional purposes
+- Sign self-claimed assertions or attributes
+- Sign a power of attorney statement
+- Enable Relying Parties to request qualified electronic signatures from RO Wallet users, facilitating the digital signing of documents and transactions.
+
+## Driving Societal Progress: The RO Wallet Infrastructure is a Foundational Digital Public Infrastructure for Society
+
+This chapter aims to provide an overview of the value proposition of the RO
+Wallet Ecosystem for the Romanian society and explains why the Romanian government
+should invest and drive the implementation of the RO Wallet Ecosystem.
+
+The digital transformation of Romanian Society shall empower the sovereignty of
+citizens and residents in a digital space that is less prone to fraud and
+enables the creation of economic value. To establish the underlying ecosystem at
+level playing field shall be created for all RO Wallet Ecosystem actors - such
+as public and private service providers.
+
+Enable the digital transformation of Romanian Society
+
+- Deploy wallet ecosystem as facilitator for the digital transformation
+- Provide at least one wallet solution independent of commercial success
+  criteria
+- Foster innovations as basis for a reliable digital infrastructure
+- Create a level playing field for all stakeholders in the ecosystem (fair
+  competition)
+- Enable freedom of choice regarding the RO Wallet for citizens and residents
+  to foster trust and innovation
+
+Improve the sovereignty of citizens and residents
+
+- Empower citizens and residents to act independently and confidently in their
+  digital lives
+- Bridge the digital divide in our society through inclusive design
+- Avoid surveillance by design
+
+Establish an interconnected ecosystem between all EU member states
+
+- Seamless and secure digital interactions across the EU for all ecosystem
+  participants, esp. Users, Relying Parties and EAA Providers
+- EU wide non-discriminatory ecosystem access to all EUDI wallets for EAA
+  Providers and Relying Parties
+
+Improve security and trust for the digital space
+
+- Harmonized oversight and trust infrastructure
+- Ensure accountability of all stakeholders in the ecosystem
+- Reduce fraud and cybercrime
+- Protect users against unauthorized or fraudulent use of their digital
+  identities
+
+Foster economic value creation
+
+- Enable public administrations and private organizations to make their
+  processes more user friendly, transparent and efficient
+- Enable Relying Parties to reduce their operational costs linked to electronic
+  identification and authentication
+- Promote the secure digital transformation of SMEs
+- Facilitate easier access to services across borders, reduce administrative
+  burdens
+- Enable commercial business models on top of the infrastructure
+
+## Splitting Responsibilities: Differentiation between a Government, Cooperative and Competitive Space for Efficient Collaboration
+
+The emergence of the RO Wallet Ecosystem requires a division of
+responsibilities between government tasks (government space), public-private
+cooperation (cooperative space) and individual differentiation and
+specialization (competitive space). Figure 1 provides an overview of the
+conceptual framework for the three responsibility spaces.
+
+![Responsibility Spaces.](./figures/EGOM_Figure%201_Three%20Spaces.png)
+
+*Figure 1: Mapping the responsibilities of the government, cooperative and
+competition space*
+
+The government domain is dedicated to establishing the essential trust
+infrastructure for the RO Wallet Ecosystem. It ensures regulatory oversight,
+certification, enforcement, and the provision of public credentials, such as the
+Person Identification Data (PID) or a mobile Driving License, to boost
+credential sharing through the RO Wallet Ecosystem. The cooperative space
+between diverse public and private ecosystem actors aims to generate network
+effects through an acceptance network by offering a variety of domain-specific
+credentials and integrating multiple organizational use cases. This approach
+ensures a broad reach and drives widespread adoption of the public-private RO
+Wallet Ecosystem. In this context, "public-private" means that the RO Wallet
+Ecosystem extends beyond the public sector, encompassing the private sector,
+academia, and civil society. Furthermore, collaboration is needed to create
+common standards that ensure interoperability, foster ease of use and lead to a
+harmonized ecosystem beyond technical and organizational silos. In addition,
+co-creation is essential to reducing barriers through an open process aimed to
+develop fundamental ecosystem components that serve shared interests (e.g., the
+core RO Wallet). This approach helps lower overall costs for the RO Wallet
+Ecosystem and its individual actors.
+
+The integration of the government and cooperative spaces within the RO Wallet
+Ecosystem leads to an unified governance of the RO Wallet Ecosystem, grounded
+in European and national legislation that establishes the rules,
+responsibilities, and incentives necessary for effectively orchestrating an
+ecosystem comprising diverse independent organizations and individuals. It
+ensures the effective utilization of the underlying trust infrastructure,
+promotes value creation for both citizens and organizations, and minimizes
+misuse through preventive measures and appropriate sanctions. Additionally, a
+key aspect of orchestration involves communicating and educating stakeholders
+and the broader public about the RO Wallet Ecosystem. These efforts aim to
+ensure that the ecosystem is visible and operates in alignment with its
+objectives, fostering a sustainable and trusted environment.
+
+The competition space defines the area where ecosystem actors engage in
+competition and differentiation, fostering choice, innovation, and resilience
+through multiple offerings within the RO Wallet Ecosystem. The competition
+space is an integral part of the overall RO Wallet Ecosystem governance, which
+establishes rules and incentives to ensure fair competition and public
+accountability. At the same time, it strives to maximize market-driven
+mechanisms for the participating actors. In the competition space, three key
+opportunities emerge for innovation in products, services, and
+business/operating models. Organizations can leverage all three options to
+develop offerings that deliver value for, through, and on top of the RO Wallet
+Ecosystem:
+
+### EUDI Wallet Providers
+
+EUDI Wallet Providers offer a EUDI Wallet solution to users, representing a
+product and service owned and managed by the eIDAS certified wallet
+provider. This offering can be provided as a standalone product or extended
+beyond the certified EUDI Wallet solution that can be characterized as the
+Wallet Infrastructure scope. The flexibility of the chosen architecture, which
+complies with certification requirements and supports additional features and
+services beyond the core EUDI Wallet instance, allows EUDI Wallet Providers to
+differentiate (e.g. through UX, user related features) themselves and offers
+users a range of choices.
+
+Illustrating Examples:
+
+- Instead of offering a standalone app, the EUDI Wallet solution can be
+  integrated into existing consumer-facing applications, such as insurance´s,
+  bank’s, airline’s or platform provider branded apps. In doing so, the EUDI
+  wallet feature scope and interfaces must be the same to fulfill the upcoming
+  certification requirements and interoperability. To meet upcoming
+  certification requirements and ensure interoperability, the EUDI Wallet's
+  feature scope and interfaces must be the same, regardless of whether
+  additional features beyond the EUDI wallet core are implemented. Features
+  specific to the insurance, banking or airline services that extend beyond the
+  core EUDI Wallet instance are not subject to the eIDAS EUDI wallet
+  certification process. This approach also allows EUDI Wallet providers the
+  flexibility to offer additional, potentially chargeable services for users on
+  top of the certified wallet functionality. These added value services are not
+  part of the EUDI wallet certification process but might be subject to other
+  regulations (e.g. financial services).
+
+- An existing identity and trust service providers can transition into an EUDI
+  Wallet Provider, benefiting from the ecosystem's reach and economic synergies
+  with existing services, such as the provision of Qualified Electronic
+  Signatures (QES) or Qualified Electronic Attestation of Attributes (QEAA).
+  From the perspective of existing identity and trust services, the EUDI Wallet
+  ecosystem serves as both a sales channel for established offerings and an
+  opportunity to expand business activities through the EUDI wallet,
+  particularly by engaging directly with users (2C market).
+
+### Ecosystem (Technology) Service Providers
+
+Ecosystem (Technology) Service Providers offer products and services that help
+organizations comply with RO Wallet Ecosystem requirements, ensuring active
+participation while maximizing value for individual stakeholders. While these
+providers do not hold an official role within the RO Wallet Ecosystem, they
+have a critical support function by empowering organizations to effectively
+fulfill their roles (e.g. become a provider or relying party) within the RO
+Wallet Ecosystem. They provide their products and services directly to
+individual organizations and receive financial compensation for the value they
+deliver. Here, market mechanisms define the success as these actors need to
+convince other organizations that they provide value.
+
+Illustrating Examples:
+
+- Conformity Assessment Bodies (CABs) are accredited organizations, authorized
+  by the Romanian Accreditation Body (RENAR), responsible for conducting
+  assessments that support the certification process for entities such as
+  (possible) EUDI wallet providers. By ensuring compliance with the
+  certification scheme, CABs enable organizations to become part of the RO
+  Wallet Ecosystem. In return for their services, CABs are financially
+  compensated by the organizations utilizing their service.
+
+- Technology Service Providers offer organizations products and services to
+  ensure technical compliance and an easy and quick integration with the RO
+  Wallet Ecosystem requirements. For example, they might offer products and
+  services to help organisations to register and onboard in the RO Wallet
+  Ecosystem. Each organization evaluates the value of these offerings and, if
+  deemed beneficial, compensates the technology service provider for the
+  products or services they utilize.
+
+- Consulting Service Providers assist organizations in strategically aligning
+  with and leveraging the RO Wallet Ecosystem to benefit their customers. This
+  support may include optimizing existing business processes through the
+  integration of RO Wallet and utilizing the advantages offered by the
+  ecosystem. For their advisory and consulting services, they are compensated by
+  their customers.
+
+### Domain organization and governance
+
+For the functioning of the RO Wallet Ecosystem, various attestations are of
+great importance. The provision of these attestations is carried out by
+individual organizations operating in specific domains. Domains are formed by
+groups of similar or industry-specific use cases. For example, e-prescriptions
+and health insurance applications are part of the "Health" domain, account
+openings and bank transfers are part of the "Banking" domain. Organizations and
+domains are responsible for managing their own trust frameworks. These
+domain-specific trust management mechanisms determine whether a domain-specific
+EAA provider is authorized to issue certain EAAs that are universally accepted
+within the domain. This includes defining the requirements for providing EAAs
+within the RO Wallet Ecosystem in alignment with domain-specific schemas,
+which may be mandated by specific disclosure policies to ensure their seamless
+integration and usage within the ecosystem. Domain-specific trust management may
+be shaped and defined by regulations specific to each domain, making compliance
+the responsibility of the respective domains and the organizations involved. For
+example, regulations such as PSD2 in the banking sector or AML requirements
+impose specific obligations that influence how banks interact with the RO
+Wallet Ecosystem.
+
+The interplay between the cooperation and competition space highlights the need
+for individual organizations and domains to develop their own strategy on how to
+interact with the RO Wallet Ecosystem. This includes defining to aim for an
+active role within the ecosystem, such as acting as a Relying Party, EAA
+provider or an EUDI Wallet provider, or focusing more on a supporting role as
+e.g. an Ecosystem (Technology) Service Provider that empowers other
+organizations to leverage the ecosystem effectively. Furthermore, it emphasizes
+the critical importance of fostering a cooperative space, particularly by
+establishing a broad public-private acceptance network with diverse use cases.
+This necessitates contributions from various domains (e.g. financial services,
+healthcare, mobility and ecommerce) to provide (Q)EAA credentials to the
+ecosystem, enabling users to access and utilize them through their EUDI wallets.
+It also empowers relying parties to optimize existing online and offline
+business processes while driving the development of innovative new offerings.
+
+The responsibilities within the RO Wallet Ecosystem can be split into I)
+responsibilities of the ecosystem, II) domain responsibilities and III)
+responsibilities of individual organizations:
+
+I) Ecosystem responsibilities
+
+<!-- RO modification: Governance and Operating Model -- "Provide orchestration capabilities to" removed; Romania has no Ecosystem Orchestrator -->
+- Provide RO Wallet infrastructure including trust management
+- Harmonize the regulatory framework to ensure the legal operation of the RO
+  Wallet Ecosystem
+- Develop and expand the RO Wallet
+  Ecosystem while facilitating engagement with ecosystem stakeholders and the
+  broader public
+
+II) Domain responsibilities
+
+- Develop domain specific strategies to interact with the RO Wallet Ecosystem
+- Define trust mechanisms and requirements to offer (Q)EAAs to the RO Wallet
+  Ecosystem
+
+III) Organization responsibilities
+
+- Develop organization specific strategies how to interact with the RO Wallet
+  Ecosystem as relying party and/or EUDI wallet provider
+
+<!-- Removed in RO Wallet -- section "Ecosystem Orchestration: A Critical Capability for Stakeholder Alignment and Continuous Testing and Development" with its subsections and Figure 2; no Ecosystem Orchestrator in Romania -->
+
+## Ecosystem Onboarding: Consolidating Information, Centralizing Access, and Enhancing Transparency to Prevent Misuse
+
+<!-- RO modification: Governance and Operating Model -- co-financing mechanism removed; there are no ecosystem access fees in Romania -->
+The eIDAS regulation mandates the registration of organizations interacting
+with the RO Wallet Ecosystem. This requirement fosters transparency and helps
+prevent misuse or overasking personal data. The ecosystem
+registration concept centers on the registration of specific use cases and the
+declaration of intended uses.
+
+The RO Wallet Ecosystem prioritizes robust governance to ensure trust,
+security, and accountability among all ecosystem actors. A key aspect of this
+governance requirement is a streamlined ecosystem onboarding process,  which is
+essential for gaining access to the RO Wallet Ecosystem. In line with eIDAS, a "relying party" refers to any legal or natural person intending to
+interact with the RO Wallet. This term applies universally to organizations
+that need to register, regardless of whether their intended use involves
+receiving a PID, obtaining an (Q)EAA, or issuing an (Q)EAA to the ecosystem for
+use by other actors on behalf of the user.
+
+<!-- Removed in RO Wallet -- description of the EUDI Wallet Ecosystem Management Portal with Figure 3 and its requirements; no Ecosystem Management Portal in Romania -->
+<!-- RO addition: Governance and Operating Model -- STS portal paragraph replaced by STS-provided text on registration; register named "National Register of Wallet Relying Parties (RNBP)" -->
+**How organisations join the ecosystem**
+
+Any institution, company or person that wants to request data from your wallet,
+or issue attestations to it, must register first. That way, you always know who
+is asking for your data and why.
+
+All relying parties register, such as public services, banks and online shops.
+So do identity and attestation providers, including qualified ones. Each
+registers in the country where it is established. A registration made in Romania
+is recognised by wallets across the European Union.
+
+For each service in which it wants to use the wallet, the organisation declares
+which data it will request and for what purpose. It is not allowed to ask for
+more. Your wallet shows you what the organisation declared, so you can check
+every request before you share anything. If an organisation asks for more than
+it declared, or if its registration details are no longer accurate, it can be
+suspended or removed from the register.
+
+In Romania, the Special Telecommunications Service (STS) developed and
+implemented the national registration system. Once the national legislation is
+adopted, STS will be designated as registrar. The system includes:
+
+- **the National Register of Wallet Relying Parties (RNBP)**, which will become
+  public after the legislation is adopted: you will be able to look it up at any
+  time, and apps will be able to read it automatically;
+- **the registration portal**, where organisations submit and update their details;
+- **access and registration certificates**, which let your wallet recognise the
+  organisation and check which data it is allowed to request.
+
+*Legal basis: Article 5b of Regulation (EU) No 910/2014 (eIDAS), as amended by
+Regulation (EU) 2024/1183, and Commission Implementing Regulation (EU) 2025/848.*
+
+**The described ecosystem onboarding process is consistent across various use
+cases and organizations seeking access to the RO Wallet Ecosystem. The
+following examples illustrate this process:**
+
+- KYC for Financial Services: A bank seeking to receive a PID (Personal
+  Identification Data) for a KYC (Know Your Customer) process must register as a
+  relying party and declare its intended use as “KYC for Anti-Money Laundering,”
+  specifying the required data attributes necessary for its operations. Once the
+  registration process is complete, the bank receives an access certificate for
+  the authentication and a registration certificate for the intended use. During
+  the use case (e.g., opening a bank account), the declared intended use is
+  displayed to the new customer through his or her RO Wallet. If the requested
+  data exceeds the declared intended use, the user is alerted and the process is
+  aborted. This mechanism not only informs users but also helps identify
+  potential misuse by relying parties.
+
+- Pseudonym Login: An eCommerce platform requiring a pseudonymous login from the
+  RO Wallet must register as a relying party to obtain an access
+  certificate.This intended use are displayed to the users, ensuring
+  transparency and enabling informed consent.
+
+- QES/Payment authorization: For payment authorization or qualified electronic
+  signature (QES) providers, the process involves registering to request a
+  transaction authorization for authorizing signing contracts or payments. These
+  intended uses are displayed to users, ensuring transparency and enabling
+  informed consent.
+
+- Issuing a Diploma: An educational institution, such as a university, aiming to
+  issue a diploma to a student after graduation, must register as a relying
+  party and declare its intended use as “Providing a University Diploma.” The
+  issuing process must comply with the requirements defined in the institution's
+  or domain disclosure policy. This policy specifies the credential requirements
+  and is the responsibility of the issuing organization, often influenced by
+  regulatory or domain-specific standards. For instance, the education sector
+  may define harmonized issuing requirements to standardize policies across
+  institutions. This approach applies to other credentials as well, whether they
+  are long-term and static (e.g., diplomas) or short-term and dynamic (e.g.,
+  credit scores).
+
+The ecosystem registration process facilitates collective oversight by ecosystem
+actors and regulators, leveraging transparency by design. Registered
+participants are subject to public monitoring and enforcement processes,
+ensuring swift and effective responses to violations. This collective approach
+strengthens trust within the ecosystem and promotes broader adoption by ensuring
+secure and reliable ecosystem interactions. The following examples illustrate
+how maximizing transparency effectively balances the flexibility required for
+ecosystem adoption with robust safeguards against misuse:
+
+<!-- Removed in RO Wallet -- example "Ecosystem website and organization web portal as single information and ecosystem access point" (portal operator of the Ecosystem Management Portal); Romania has no Ecosystem Management Portal -->
+- Use-case restriction and user warnings: The RO Wallet only permits relying
+  parties to offer use cases that are explicitly registered after receiving the
+  access and registration certificate. If a mismatch occurs, users are
+  proactively warned. However, users retain the ability to proceed based on
+  their individual decisions, provided they make an active and informed choice.
+
+<!-- Removed in RO Wallet -- example "Public transparency through the need of declared intended uses and an ecosystem dashboard" with its note linking to the German project website; publication of registered uses in Romania not yet defined -->
+
+<!-- Removed in RO Wallet -- section "Ecosystem Access Fees: Enabling Public-Private Co-Financing and Sustaining the EUDI Wallet Infrastructure Operating Model" with its subsections and Figure 5; no ecosystem access fees in Romania -->
+
+## Level-Playing Field Regulation: The Foundation for User Choice and Fair Competition Among Ecosystem Actors
+
+The RO Wallet Ecosystem comprises multiple actors that must be aligned and
+interconnected. A critical factor for creating value is scaling the acceptance
+network within the cooperative space to expand the ecosystem's reach.
+Establishing this acceptance network is essential for overcoming fragmentation,
+which often impedes user choice, fair competition, and scalability. For
+instance, EUDI wallet providers face challenges in sourcing credentials from
+diverse providers and ensuring that relying parties effectively utilize these
+credentials in various business use cases. This is crucial for creating value
+for users who hold the credentials and for convincing them that the EUDI Wallet
+provider’s offering delivers tangible benefits. Therefore, alongside the
+technical and organizational development of the RO Wallet acceptance network,
+a regulatory cornerstone is essential: an “Level-Playing Field.”
+
+This framework ensures non-discriminatory access for all ecosystem actors,
+including EAA providers, EUDI Wallet providers, and relying parties. This
+regulatory principle enhances the acceptance reach by ensuring that all
+ecosystem actors benefit from each other's individual activities, which align
+with collective interests of the cooperative space. It also lays the groundwork
+for fair competition within the ecosystem by preventing any dominant
+player - whether the government or a powerful non-government actor - from
+monopolizing the acceptance network. This safeguard ensures that the RO Wallet
+Ecosystem, built on the digital public wallet infrastructure and its acceptance
+network, cannot be exploited for private value capture at the expense of
+competitors and users. Therefore, it ensures the collective public interest by
+preventing monopolization attempts that could arise from the “winner-takes-all”
+dynamics of the RO Wallet Ecosystem. These dynamics are driven by the
+underlying network effects and are well-known from network infrastructures (e.g.
+telecommunication) and digital platform markets (e.g. mobile payments)
+
+As outlined in Section 4: Splitting Responsibilities for defining the boundaries
+of the “Level-Playing-Field” regulation a differentiation in the ecosystem
+operating model and individual business models of Ecosystem Technology Service
+Providers and Qualified Trust Service Providers is needed. The
+“Level-Playing-Field” regulation applies to the ecosystem operating model, while
+the business relationships of Ecosystem Technology Service Providers/Qualified
+Trust Service Providers and actors that participate in the EU wallet ecosystem
+are governed by market mechanisms and fall outside the scope of the RO Wallet
+Ecosystem's governance. The business model for Ecosystem Technology Service
+Providers and Qualified Trust Service Providers focuses on delivering products
+and services that enable organizations to engage with and participate in the
+RO Wallet Ecosystem. These providers are compensated for their offerings by
+the individual organizations with whom they have established business
+relationships. Figure 2 illustrates these interrelationships.
+
+![Level-Playing-Field
+Regulation.](./figures/EGOM_Figure%206_Equal%20Level%20Playing%20Field.png)
+
+*Figure 6: Differentiation Between Level-Playing-Field Regulation and Market
+Mechanisms*
+
+**Illustrating Exemples of the "Level-Playing Field" regulation**
+
+<!-- RO modification: Governance and Operating Model -- reference to section 7 "Ecosystem Access Fees" removed -->
+Part of the “Level-Playing Field” regulation is that all EAA providers, EUDI
+wallet providers and relying parties need to register to get access to the
+ecosystem. To demonstrate the
+concept of the "Level-Playing Field" three illustrative examples are described:
+
+A Bank is using a PID for a KYC to enable users to open a bank account:
+
+- In this case, the “Level-Playing-Field” regulation ensures that all EUDI
+  wallet providers have equal acceptance network reach. A bank uses a PID
+  (Personal Information Data) for KYC (Know Your Customer) purposes to enable
+  users to open a bank account. In the context of the RO Wallet Ecosystem, the
+  bank interacts with all certified EUDI Wallet providers. From an integration
+  and user experience perspective, a "Do it with my RO Wallet" button will be
+  available to seamlessly initiate the process. This ensures that users have the
+  freedom to choose their preferred wallet provider, granting them ecosystem
+  access through the acceptance network. Unlike the current reality where banks
+  often select a specific identity service provider as their KYC partner, the
+  RO Wallet Ecosystem shifts this power dynamic. Here, users bring their
+  chosen "EUDI Wallet provider" to the bank, reflecting the user-centric
+  approach. The bank can rely on the RO Wallet certification and the
+  accompanying ecosystem governance to ensure that all providers meet the
+  necessary regulatory requirements for KYC compliance. According to the
+  principles of the "Level-Playing-Field" regulation, banks are prohibited from
+  exclusively partnering with specific EUDI Wallet providers. This also helps
+  prevent scenarios where a bank that is also an EUDI wallet provider could
+  favor its own offering and effectively “privatize” the public ecosystem.
+  Therefore, this restriction is vital to maintaining fair competition among
+  wallet providers and safeguarding user choice, fostering a balanced and open
+  ecosystem.
+
+An EAA Provider is issuing an Airline ticket or an Education diploma to enable
+users to hold the credential in their RO Wallet:
+
+<!-- RO modification: Governance and Operating Model -- reference to section 7 "Ecosystem Access Fees" removed -->
+- In this case, the “Level-Playing-Field” regulation ensures that users can hold
+  and manage their credentials in their RO Wallet, regardless of the specific
+  wallet provider they choose. EAA Providers, such as airlines or educational
+  institutions, are required to interact with all certified EUDI Wallet
+  providers. They are prohibited from selecting or favoring a preferred partner,
+  as this decision lies solely with the user. This approach prevents ecosystem
+  fragmentation and monopolization while guaranteeing interoperability, which is
+  essential for fostering fair competition and preserving user choice. From the
+  user’s perspective, the “Level-Playing Field” ensures that EAAs issued by any
+  provider can be seamlessly utilized, enabling a consistent and user-friendly
+  experience across the ecosystem. However, it is the responsibility of the EAA providers to establish their
+  issuing policies and define their business conditions for providing an EAA.
+
+An EUDI Wallet Provider needs to accept all EAAs from all providers and serve
+all relying parties that are part of the RO Wallet Ecosystem:
+
+- In this case, the “Level-Playing-Field” regulation ensures that users can
+  trust their EUDI wallet provider to service all EAA Providers and Relying
+  Parties that are part of the RO Wallet Ecosystem and the underlying
+  acceptance network. This ensures a seamless and inclusive experience for
+  users, regardless of the source of their credentials or the relying party they
+  wish to interact with. This obligation prevents exclusivity and favoritism,
+  upholds user choice and fair competition, and ensures that all ecosystem
+  actors operate on an level-playing field. However, based on eIDAS
+  regulation the EUDI wallet providers only get access to the PID of the Member
+  State they are certified in.
+
+**Implementing the “Level-Playing-Field” Regulation and Implications for EUDI
+Wallet Provider Business Models**
+
+The “Level-Playing-Field” Regulation is a core principle of the RO Wallet
+Ecosystem and all ecosystem actors (public and private) and all ecosystem roles
+(Provider, EUDI wallet provider, Relying Party) are obliged to the requirement.
+
+**Implication for potential providers to offer the EUDI Wallets free of charge**
+
+The eIDAS regulation mandates that EUDI wallets must be provided free of
+charge to natural persons. To ensure an level-playing field while promoting
+differentiation and competition among EUDI wallet providers, the
+regulatory-defined scope of the wallet plays a pivotal role (see Section 4:
+Splitting Responsibilities). This scope establishes the foundational features
+and interoperability requirements necessary to uphold the principles of the
+"Level-Playing Field" regulation. While the core scope of the RO Wallet falls
+under the eIDAS requirement for free access, providers are permitted to
+develop additional services and features beyond this core. These value-added
+offerings are not subject to the eIDAS regulation and its corresponding
+certification and may form the basis of chargeable services, enabling providers
+to establish sustainable business models. From the user’s perspective, wallet
+applications will include the regulated core features to ensure security and
+privacy but may also offer enhanced functionalities and services beyond the RO
+Wallet scope, tailored to specific needs and use cases. More details and
+examples are described in Section 4: Splitting Responsibilities.
+
+**Implication for legal relationships between ecosystem roles** The outlined
+"Level-Playing-Field" regulation principles necessitate defining legal
+relationships between roles at the ecosystem level. This ensures that legal
+issues are not determined on a case-by-case basis between individual
+organizations and roles. Instead, the RO Wallet Ecosystem will operate under a
+harmonized legal framework, which requires further detailed definition.
+
+**Implication for potential EUDI wallet providers to provide Qualified
+Electronic Signatures (QES) for non-professional use free of charge**
+
+The eIDAS regulation mandates that EUDI wallets must enable the user to sign by means of Qualified
+Electronic Signatures (QES) free of charge for non-professional purposes. This
+applies to the RO Wallet-centric QES scenario, where the management of
+qualified certificates is integrated into the RO Wallet. Differentiating between professional and non-professional usage
+presents a challenge and requires further work such as defining a dedicated national attribute in the National Register of Wallet Relying Parties (RNBP), separate from the "IntendedUse" and "Entitlements" fields, to carry the professional/non-professional signing context.
+
+**Implication for smartphone manufacturers to ensure fair competition with third
+party EUDI wallet providers**
+
+From the perspective of EUDI wallet providers, the "Level-Playing-Field"
+regulation must prioritize ensuring the visibility and accessibility of wallet
+options for potential users. Smartphone manufacturers, who can pre-install an
+(EUDI) wallet offering as part of their operating system, gain a significant
+competitive advantage, as these wallets are readily available during the initial
+device setup. To uphold the "Level-Playing-Field" principle, it is crucial to
+prohibit exclusive bundling practices that unfairly benefit smartphone
+manufacturers at the expense of third-party competitors. Users must have the
+freedom to select their preferred EUDI wallet provider, following a model
+similar to the browser choice approach in the European Union. Additionally,
+competing EUDI wallet providers must be granted access to critical smartphone
+infrastructure functions and user features utilized by the incumbent RO Wallet
+(e.g. double tap on iPhones). Achieving this requires proactive action from
+national and European regulators to establish fair competition within the RO
+Wallet Ecosystem. Through industry dialogue and regulatory instruments, such as
+the Digital Markets Act, these measures must be achieved to ensure fair
+competition and lay the foundation for a balanced and open ecosystem where all
+EUDI wallet providers have fair opportunities to compete leading to choice for
+citizens.
+
+---
+
+## Standards
+
+<!-- RO modification: Standards -->
+
+# Standards
+
+The following standards and technical specifications are referenced in this blueprint. Their applicability to the RO Wallet implementation is subject to the relevant architectural and technical decisions.
+
+## IETF Standards
+
+| Standard                                                       | Version  | Description |
+|----------------------------------------------------------------|----------|-------------|
+| __[OAuth 2.0 Attestation-Based Client Authentication](https://www.ietf.org/archive/id/draft-ietf-oauth-attestation-based-client-auth-12.html)__ | draft 12 | This specification defines an extension to the OAuth 2 protocol as defined in [RFC6749] which enables a Client Instance to include a key-bound attestation in interactions with an Authorization Server or a Resource Server. This new method enables Client Instances involved in a client deployment that is traditionally viewed as a public client, to be able to utilize this key-bound attestation to authenticate. |
+| __[Selective Disclosure for JWTs (SD-JWT)](https://www.rfc-editor.org/rfc/rfc9901.html)__ | RFC 9901 | This specification defines a mechanism for the selective disclosure of individual elements of a JSON data structure used as the payload of a JSON Web Signature (JWS). The primary use case is the selective disclosure of JSON Web Token (JWT) claims. |
+| __[SD-JWT-based Verifiable Credentials (SD-JWT VC)](https://www.ietf.org/archive/id/draft-ietf-oauth-sd-jwt-vc-23.html)__ | draft 23 | This specification describes data formats as well as validation and processing rules to express Verifiable Credentials with JSON payloads with and without selective disclosure based on the SD-JWT [I-D.ietf-oauth-selective-disclosure-jwt] format. |
+| __[Designated Verifier Signatures for JOSE](https://www.ietf.org/archive/id/draft-bastian-jose-dvs-02.html)__ | draft 02 | This specification defines designated verifier signatures for JOSE and defines algorithms that use a combination of key agreement and MACs. |
+
+---
+
+## OpenID Standards
+
+| Standard | Version | Description |
+|----------|-----| ----------- |
+| __[OpenID4VC High Assurance Interoperability Profile with SD-JWT VC](https://openid.net/specs/openid4vc-high-assurance-interoperability-profile-1_0.html)__ | 1.0 | This document defines a profile of OpenID for Verifiable Credentials in combination with the credential formats IETF SD-JWT VC [I-D.ietf-oauth-sd-jwt-vc] and ISO mdoc [ISO.18013-5]. The aim is to select features and to define a set of requirements for the existing specifications to enable interoperability among Issuers, Wallets and Verifiers of Credentials where a high level of security and privacy is required. The profiled specifications include OpenID for Verifiable Credential Issuance [OIDF.OID4VCI], OpenID for Verifiable Presentations [OIDF.OID4VP], IETF SD-JWT VC [I-D.ietf-oauth-sd-jwt-vc], and ISO mdoc [ISO.18013-5]. |
+| __[OpenId for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)__ | 1.0 | This specification defines an API for the issuance of Verifiable Credentials. |
+| __[OpenID for Verifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)__ | 1.0 | This specification defines a protocol for requesting and presenting Credentials. |
+
+---
+
+## ISO Standards
+
+| Standard    | Version | Description                          |
+| ----------- |:--------| ------------------------------------ |
+|__[ISO/IEC 18013-5](https://www.iso.org/standard/69084.html)__| 2021    | This document establishes interface specifications for the implementation of a driving licence in association with a mobile device. This document specifies the interface between the mDL and mDL reader and the interface between the mDL reader and the issuing authority infrastructure. This document also enables parties other than the issuing authority (e.g. other issuing authorities, or mDL verifiers in other countries) to:— use a machine to obtain the mDL data;— tie the mDL to the mDL holder;— authenticate the origin of the mDL data;— verify the integrity of the mDL data.The following items are out of scope for this document:— how mDL holder consent to share data is obtained;- requirements on storage of mDL data and mDL private keys. |
+
+---
+
+## ETSI Standards
+
+| Standard | Verion | Description |
+|----------|--------|-------------|
+| __[ETSI TR 119 001](https://www.etsi.org/deliver/etsi_tr/119000_119099/119001/01.02.01_60/tr_119001v010201p.pdf)__ | 1.2.1  | The framework for standardization of signatures: Definitions and abbreviations |
+| __[ETSI TS 119 152-1](https://www.etsi.org/deliver/etsi_ts/119100_119199/11915201/01.01.01_60/ts_11915201v010101p.pdf)__ | 1.1.1  | Specifies a CBOR format for AdES signatures (CB-AdES) built on CBOR Object Signing and Encryption (COSE) as specified in IETF RFC 9052 |
+| __[ETSI TS 119 182-1](https://www.etsi.org/deliver/etsi_ts/119100_119199/11918201/01.02.01_60/ts_11918201v010201p.pdf)__ | 1.2.1  | Specifies JSON-based advanced electronic signature formats (JAdES) for interoperable and long-term validation |
+| __[ETSI TS 119 411-8](https://www.etsi.org/deliver/etsi_ts/119400_119499/11941108/01.01.01_60/ts_11941108v010101p.pdf)__ | 1.1.1  | Defines Access Certificate Policy for EUDI Wallet Relying Parties . |
+| __[ETSI TS 119 432](https://www.etsi.org/deliver/etsi_ts/119400_119499/119432/01.03.01_60/ts_119432v010301p.pdf)__ | 1.3.1  | Defines protocols for remote digital signature creation. |
+| __[ETSI TS 119 461](https://www.etsi.org/deliver/etsi_ts/119400_119499/119461/02.01.01_60/ts_119461v020101p.pdf)__ | 2.1.1  | Specifies policy and security requirements for trust service components providing identity proofing of trust service subjects |
+| __[ETSI TS 119 471](https://www.etsi.org/deliver/etsi_ts/119400_119499/119471/01.01.01_60/ts_119471v010101p.pdf)__ | 1.1.1  | Defines Policy and Security requirements for Providers of Electronic Attestation of Attributes Services |
+| __[ETSI TS 119 472-1](https://www.etsi.org/deliver/etsi_ts/119400_119499/11947201/01.02.01_60/ts_11947201v010201p.pdf)__ | 1.2.1  | Specifies the general requirements and data models for Electronic Attestations of Attributes (EAA) |
+| __[ETSI TS 119 472-2](https://www.etsi.org/deliver/etsi_ts/119400_119499/11947202/01.03.01_60/ts_11947202v010301p.pdf)__ | 1.3.1  | Specifies profiles for EAA/PID presentations to relying parties |
+| __[ETSI TS 119 472-3](https://www.etsi.org/deliver/etsi_ts/119400_119499/11947203/01.01.01_60/ts_11947203v010101p.pdf)__ | 1.1.1  | Specifies profiles for issuance of EAA or PID |
+| __[ETSI TS 119 475](https://www.etsi.org/deliver/etsi_ts/119400_119499/119475/01.02.01_60/ts_119475v010201p.pdf)__ | 1.2.1  | Structure of registration certificates with rulebook references |
+| __[ETSI TS 119 478](https://www.etsi.org/deliver/etsi_ts/119400_119499/119478/01.01.01_60/ts_119478v010101p.pdf)__ | 1.1.1  | Specification of interfaces related to Authentic Sources |
+| __[ETSI TS 119 602](https://www.etsi.org/deliver/etsi_ts/119600_119699/119602/01.01.01_60/ts_119602v010101p.pdf)__ | 1.1.1  | Specifies the Lists of Trusted Entities (LoTE) data model |
+| __[ETSI TS 119 612](https://www.etsi.org/deliver/etsi_ts/119600_119699/119612/02.04.01_60/ts_119612v020401p.pdf)__ | 2.4.1  | Specifies the technical specifications for Trusted Lists |
+| __[ETSI EN 319 102-1](https://www.etsi.org/deliver/etsi_en/319100_319199/31910201/01.04.01_60/en_31910201v010401p.pdf)__ | 1.4.1  | Procedures for Creation and Validation of AdES Digital Signatures |
+| __[ETSI EN 319 122-1](https://www.etsi.org/deliver/etsi_en/319100_319199/31912201/01.03.01_60/en_31912201v010301p.pdf)__ | 1.3.1  | Specifies the CAdES (CMS Advanced Electronic Signatures) format, defining the technical requirements for advanced electronic signatures based on the Cryptographic Message Syntax (CMS) for binary data and documents |
+| __[ETSI EN 319 132-1](https://www.etsi.org/deliver/etsi_en/319100_319199/31913201/01.03.01_60/en_31913201v010301p.pdf)__ | 1.3.1  | Specifies the XML Advanced Electronic Signatures (XAdES) format, defining the baseline requirements for creating and validating structured digital signatures within XML documents |
+| __[ETSI EN 319 162](https://www.etsi.org/deliver/etsi_en/319100_319199/31916201/01.01.01_60/en_31916201v010101p.pdf)__ | 1.1.1  | Specifies the building blocks and the baseline containers of the Associated Signature Containers (ASiC) |
+
+---
+
+## CSC Technical Specifications
+
+| Technical Specification | Version | Description                                                                                                                        |
+|-------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------|
+| __[CSC API](https://cloudsignatureconsortium.org/wp-content/uploads/2025/11/csc-api.pdf)__ | 2.2.0.0 | Provides a standardized interface for interoperable, cloud-based digital signatures and remote signing.                            |
+| __[CSC Data Model](https://cloudsignatureconsortium.org/wp-content/uploads/2025/10/csc-dm.pdf)__ | 1.0.0   | Defines data models for (a) Requesting a signature, (b) Requesting a signing operation, (c) Authorization of a signing operation   |
+| __[CSC Data Model Bindings](https://cloudsignatureconsortium.org/wp-content/uploads/2025/10/data-model-bindings.pdf)__ | 1.0.0   | Describes bindings of the CSC data model for use cases that are out of scope for CSC but may be used in relation with the CSC API. |
+
+---
+
+## CEN Standards
+
+| Standard | Version | Description |
+|----------|:--------|-------------|
+| __[CEN EN 419 241-1](https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT:61293&cs=197619E59B18776EC4C4865E1AB7A0037)__ | 2018    | Specifies security requirements and recommendations for Trustworthy Systems Supporting Server Signing (TW4S) that generate digital signatures. |
+
+---
+
+## Further Standards
+
+- The most important cryptographic standards can be found
+  [__here__](../ecosystem-concepts/crosscutting-concepts/security-requirements.md#cryptographic-algorithms).
+- An overview of all standards and specifications can be found in the [__ARF__](https://github.com/orgs/eu-digital-identity-wallet/projects/29/views/2).
+
+---
+
+## Ecosystem Vision & Fundamentals(Ecosystem-vision-and-fundamentals)
+
+<!-- RO modification: Ecosystem Overview -->
+# Ecosystem Vision & Fundamentals
+
+## RO Wallet Ecosystem Overview
+
+<!-- RO addition: Ecosystem Overview -->
+!!! note "Note"
+    The roles and responsibilities within the RO Wallet Ecosystem are described in accordance with the provisions of the draft Emergency Ordinance published for public consultation as part of the legislative transparency process in Romania. If the Emergency Ordinance undergoes any changes after its final adoption, these changes will be reflected in the documentation accordingly.
+
+The RO Wallet Ecosystem comprises a set of clearly defined roles and systems that together enable the secure issuance, management, and use of digital credentials data across Europe. These roles interact to deliver value to users, relying parties, and public administrations, while ensuring trust, legal certainty, and fundamental rights protection.
+
+While the ecosystem is inherently complex, not all interacting entities are part of the operational RO Wallet Ecosystem itself. Some actors act as authoritative sources, governance bodies, or supervisory entities that enable or oversee the ecosystem without participating in credential transactions.
+
+Figure 1 provides an overview of the RO Wallet Ecosystem roles and their interactions. Stacked boxes indicate that multiple instances of a role may exist.
+
+![RO Wallet Ecosystem Overview.](./figures/Introduction_Figure%201_Ecosystem%20Overview-ro.excalidraw.svg)
+
+*Figure 1: RO Wallet Ecosystem Roles and Components*
+
+<!-- Adapted from Figure 1 (Introduction_Figure 1_Ecosystem Overview.excalidraw.svg), German Blueprint v2.13.0: "(State) Data Protection Supervisory Authority" label changed to "Data Protection Supervisory Authority". Editable source: the embedded Excalidraw scene in the `-ro` SVG, also saved as `Introduction_Figure 1_Ecosystem Overview-ro.excalidraw`. "German eID Card" label changed to "Romanian CEI". "Orchestrator" label changed to "WRP Registrar". "EUDI Wallet Conformity Assessment Body" labels changed to "RO Wallet Conformity Assessment Body"; "EUDI Wallet Providers" labels kept. Labels now name the responsible Romanian institutions: "Romanian eID (CEI)", "PID Provider (DGEP)", "Wallet Provider (DGCTI)", "QES Provider (STS)", "WRP Registrar (STS)", "Conformity Assessment Body (DNSC - CB & Accredited CABs)", "Data Protection Supervisory Authority (ANSPDCP)"; "EUDI Wallet Providers" and "RO Wallet Conformity Assessment Body" labels replaced; boxes "National Policy and Ecosystem Coordination (MEDAT)" and "National Accreditation Body (RENAR)" (Rule-Setters) and "Supervisory Body (ADR)" (Oversight) added; Rule-Setters boxes arranged in two rows, frame moved up to align with the top of Providers and Consumers and the Ecosystem frame extended upwards; Wallet Provider and QES Provider shown as single (not stacked) boxes; Consumers frame hatch fill redrawn to stay within its border; box "Consumer Protection Organizations/Public" removed (not mentioned in the draft Emergency Ordinance). Oversight frame moved to the top row, aligned with Rule-Setters (Rule-Setters frame moved left, Providers, Consumers and Wallet Provider shifted down, Ecosystem frame resized); stacked box "Cybersecurity Coordination Authorities" added to Oversight. -->
+
+!!! Scope Note
+
+    This chapter focuses exclusively on defining the roles within the RO Wallet Ecosystem and their responsibilities. Trust relationships, certification mechanisms, and interaction flows between roles are defined in dedicated chapters and are intentionally not depicted here.
+
+The following sections first describe the **individual roles** of the ecosystem. These roles are subsequently grouped into **functional categories** to provide a clearer understanding of responsibilities, governance, and oversight.
+
+---
+
+## Core Operational Roles
+
+This section describes the roles that directly participate in credential issuance, storage, presentation, and verification.
+
+### PID Provider
+
+A PID Provider is a trusted entity responsible for:
+
+* verifying the identity of the user in compliance with Level of Assurance (LoA) high requirements,
+* issuing a Person Identification Data (PID) credential to the RO Wallet, and
+* making available, in a privacy-preserving manner, information that allows Relying Parties to verify the validity of the PID.
+
+The PID Provider ensures that person identification data - such as name and date of birth - is securely generated, validated, and made available to the wallet. The PID Provider is part of the core infrastructure of the RO Wallet Ecosystem. The current ecosystem foresees a single PID Provider, while allowing for future evaluation of additional issuance methods that meet the mandatory functional and security requirements.
+
+<!-- RO addition: Ecosystem Overview -->
+In Romania, the PID Provider is the General Directorate for Persons' Record (DGEP), within the Ministry of Internal Affairs (MAI).
+
+---
+
+### (Q-, Pub-) EAA Provider
+
+An (Qualified, Public or domain driven) Electronic Attestation of Attributes (EAA) Provider is an entity responsible for issuing Electronic Attestations of Attributes at the user’s request.
+
+EAAs allow users to prove specific attributes in a secure, standardized, and legally recognized way.
+
+* **Qualified EAA (QEAA) Providers** meet the highest eIDAS trust and security requirements and issue legally binding attestations recognized across borders.
+* **Public EAA (Pub-EAA) Providers** are trusted public entities issuing legally recognized, but non-qualified, attestations.
+* **EAA Providers** are trustworthy parties in the RO Wallet Ecosystem and providing digital attestations in their specific domain. EAA Providers may originate from various domains such as mobility, telecommunications, education, or healthcare. They are typically supervised by competent authorities within their respective domains. The RO Wallet Ecosystem envisions multiple EAA Providers as well as QEAA- and Pub-EAA Providers.
+
+---
+
+### QES Provider / Qualified Trust Service Provider (QTSP)
+
+Qualified Electronic Signatures (QES) provide legally binding signatures for digital documents. QES are regulated by the eIDAS framework and recognized by all EU member states. They have the equivalent legal effect of a handwritten signature. QES are technically based on digital signatures using certificates.
+
+EUDI Wallet Providers must give users the ability to sign by means of qualified electronic signatures by default and free of charge for **non-professional use**. To fulfil this requirement, Wallet Providers may collaborate with Qualified Trust Service Providers (QTSPs). A QTSP is a trust service provider that has received qualified status from a supervisory body in an EU Member State, allowing it to provide qualified trust services with legal effects equivalent to handwritten signatures across the EU.
+
+Beside free of charge QES there will be as well the option to use QES Services for any usecase. The RO Wallet Ecosystem interacts with multiple QES Providers / QTSPs listed in the specific EU Trust Lists.
+
+<!-- RO addition: Ecosystem Overview -->
+In Romania, the QTSP that will enable the RO Wallet users to generate free QES is the Special Telecommunications Service (STS).
+
+---
+
+<!-- RO modification: Ecosystem Overview -->
+### Wallet Provider
+
+An EUDI Wallet Provider develops and operates wallet solutions that store, manage, and present credentials on behalf of users. Wallet Providers ensure the secure handling of sensitive cryptographic material (e.g. private keys) and guarantee that users retain sole control over their PID, EAAs, and other personal data.
+
+Wallet Providers deliver **certified** interfaces that enable secure data management, selective disclosure, pseudonymous authentication, payment authorizations, and qualified electronic signatures. The ecosystem vision foresees multiple EUDI Wallet Providers to foster competition and user choice.
+
+<!-- RO addition: Ecosystem Overview -->
+In Romania, the Wallet Provider is the General Directorate for Communications and Information Technology (DGCTI), within the Ministry of Internal Affairs (MAI).
+
+---
+
+### Relying Parties
+
+A Relying Party (RP) is an entity—public or private—that interacts with RO Wallet to verify identity data or attributes for authentication, authorization, or service access.
+
+Both public and private Relying Parties must register and declare their intended use of RO Wallet data to ensure compliance with eIDAS and ecosystem rules. The ecosystem envisions multiple public, civic, and private Relying Parties.
+
+---
+
+## Governance & Trust Infrastructure Roles
+
+This section describes roles responsible for defining rules, onboarding participants, and establishing trust relationships.
+
+<!-- Removed in RO Wallet -- section "EUDI Wallet Ecosystem Orchestrator" (heading and text): the role is not part of the Romanian implementation; the Registrar is operated by STS -->
+
+### Wallet Relying Party Registrar (WRP Registrar)
+
+<!-- Removed in RO Wallet -- sentence "The WRP Registrar is a governance function required by the RO Wallet Ecosystem. In Romania it is operated by STS.": replaced by the RO addition below -->
+
+The Relying Party Registrar (WRP Registrar) is responsible for the registration, validation, and administration of Relying Parties and EAA Providers interacting with RO Wallet.
+
+It ensures that participants declare their intended uses, comply with eIDAS requirements, and operate transparently to maintain trust and security. The RO Wallet Ecosystem envisions a single WRP Registrar.
+
+<!-- RO addition: Ecosystem Overview -->
+In Romania, the WRP Registrar is the Special Telecommunications Service (STS).
+
+---
+
+<!-- RO modification: Ecosystem Overview -->
+### Conformity Assessment Bodies
+
+RO Wallet Conformity Assessment Bodies are independent entities responsible for evaluating whether RO Wallet complies with the applicable security, interoperability, and regulatory requirements under eIDAS.
+
+They perform assessments and audits as part of the RO Wallet certification process. Initially, certification is based on the national certification schema that will later transitions to the harmonized European cybersecurity certification scheme for EUDI Wallets, prepared by ENISA . These CABs ensure that Wallet Providers meet all required standards before being authorized for operation.
+
+<!-- RO addition: Ecosystem Overview -->
+In Romania, the National Cybersecurity Directorate (DNSC) hold the role of Certification Body (CB), while the CABs are still to be accredited.
+
+---
+
+<!-- RO addition: Ecosystem Overview -->
+### National Accreditation Body
+
+In Romania, the National Accreditation Body is the Romanian Accreditation Association (RENAR).
+
+RENAR is responsible for verifying, accrediting, and overseeing Conformity Assessment Bodies (CABs) that perform technical assessments of European Digital Identity Wallet solutions.
+
+As the National Accreditation Body, RENAR develops and publishes the national accreditation scheme for CABs, along with the procedures governing their accreditation and oversight.
+
+RENAR is also responsible for ensuring that nationally accredited CABs are notified to the European Commission, in accordance with the applicable regulatory requirements.
+
+---
+
+<!-- RO addition: Ecosystem Overview -->
+### National Policy and Ecosystem Coordination
+
+In Romania, the National Policy and Ecosystem Coordination role is fulfilled by the Ministry of Economy, Digitalization, Entrepreneurship and Tourism (MEDAT).
+
+MEDAT is responsible for developing and coordinating national public policies and interinstitutional cooperation related to the implementation and operation of the RO Wallet Ecosystem, ensuring alignment of the national regulatory framework with the eIDAS Regulation and its implementing acts.
+
+MEDAT also coordinates public awareness and educational initiatives, promotes the adoption and use of RO Wallet among citizens and public and private service providers, facilitates cooperation and dialogue among ecosystem stakeholders, and monitors wallet adoption and usage at the national level.
+
+---
+
+## Oversight & Public Control Roles
+
+This section describes entities that provide independent, ex-post oversight of the ecosystem.
+
+### Data Protection Supervisory Authority *(outside ecosystem)*
+
+<!-- RO modification: Ecosystem Overview -->
+Data Protection Supervisory Authorities supervise compliance with data protection regulations within the EUDI Wallet ecosystem. They investigate complaints, enforce corrective measures, and protect the rights of wallet users. Multiple supervisory authorities interact with the ecosystem.
+
+In Romania, the Data Protection Supervisory Authority is the National Supervisory Authority for Personal Data Processing (ANSPDCP).
+
+ANSPDCP is the competent authority responsible for supervising the processing of personal data within the RO Wallet Ecosystem, in accordance with Regulation (EU) 2016/679 (GDPR) and Article 45h of the eIDAS Regulation. Wallet users may report suspected personal data protection violations by Relying Parties directly to ANSPDCP.
+
+---
+
+<!-- RO addition: Ecosystem Overview -->
+### Supervisory Body
+
+In Romania, the Supervisory Body is the Authority for the Digitalization of Romania (ADR).
+
+ADR is responsible for supervising Wallet Providers at the national level, in accordance with Article 46a of the eIDAS Regulation. In cases of non-compliance, ADR may impose proportionate corrective measures, including setting compliance deadlines and temporarily suspending certain wallet functionalities. ADR is also responsible for informing public authorities and citizens, where applicable, and submitting the required reports to the European Commission in accordance with Article 46a(6) of the eIDAS Regulation and Commission Implementing Regulation (EU) 2025/1571.
+
+---
+
+<!-- RO addition: Ecosystem Overview -->
+### Cybersecurity Coordination Authorities
+
+In Romania, cybersecurity coordination and oversight within the national RO Wallet Ecosystem are jointly carried out by the competent public authorities and institutions referred to in Law No. 58/2023 on Romania's cybersecurity and cyber defence, in accordance with Article 31 of the draft Emergency Ordinance.
+
+In exercising their cybersecurity responsibilities, these authorities collaborate with each other and cooperate with the private sector, academia, professional associations, and non-governmental organizations.
+
+---
+
+<!-- Removed in RO Wallet -- section "Consumer Protection Organizations and the Public" (heading and text): not mentioned in the draft Emergency Ordinance -->
+
+## External Systems & Sources
+
+### Authentic Sources *(outside ecosystem)*
+
+Authentic Sources are public or private systems or repositories, held under the responsability of a public sector body, that contains and provides attributes about a natural or legal person or object and that is considered to be a primary source of that information or recognized as authentic in accordance with Union or nationa law, including administrative practice. Examples include civil registries, education databases, licensing authorities, or company registers.
+
+Authentic Sources provide the factual basis for attribute issuance but are outside the scope of the RO Wallet Ecosystem.
+
+---
+
+### Romanian eID (CEI) Infrastructure *(outside ecosystem)*
+
+<!-- RO modification: Ecosystem Overview -->
+The Romanian eID card (CEI, *Cartea Electronică de Identitate*) serves as the means of electronic identification for PID issuance within the RO Wallet Ecosystem.
+
+The CEI is issued by the General Directorate for Persons' Record (DGEP), within the Ministry of Internal Affairs (MAI), and contains an electronic chip storing the holder's identity data and two digital certificates: one for electronic authentication and one for electronic signing.
+
+The authentication certificate is used during the remote onboarding process for PID issuance, in accordance with requirement RO_PID_31 of the [Romanian PID Rulebook](../features/PID/ro-pid-rulebook.md), to authenticate the holder and support identity verification.
+
+The CEI is not the authoritative source of PID attribute values. These attributes are retrieved from the National Register for Persons' Records (RNEP).
+
+---
+
+## Ecosystem Vision & Fundamentals(3)
+
+
+## What is RO Wallet?
+
+RO Wallet is your personal digital wallet for identity data and credentials. It works according to a simple principle: all credentials are securely stored directly on your own smartphone and are only shared by you when needed. You remain in full control at all times, as only the absolutely necessary information is disclosed. There is no central storage of your personal data — everything stays in your hands. The wallet serves as a modern complement to your existing physical documents and will be usable across Europe in the future.
+
+<!-- RO modification: What is the Wallet -->
+### The Romanian State EUDI Wallet
+
+RO Wallet is **one example** for an EUDI Wallet. It's the Romanian state wallet, free of charge.
+
+<!-- Removed in RO Wallet -- link to the German EUDI Wallet website -->
+
+<!-- RO addition: What is the Wallet -->
+For more information visit the [RO Wallet website](https://rowallet.gov.ro/). The Wallet Provider is the Romanian Ministry of Internal Affairs (MAI), through the General Directorate for Communications and Information Technology (DGCTI).
+
+<!-- RO modification: What is the Wallet -->
+For the implementation-specific architecture see the [RO Wallet architecture documentation](https://ministerul-afacerilor-interne.github.io/rowallet-documentation/latest/).
+
+<!-- RO modification: What is the Wallet -->
+The introduction of privately provided EUDI Wallets in Romania is planned for 2028, subject to further regulatory and technical considerations. The RO Wallet application source code will be published on the official GitHub account of the Ministry of Internal Affairs (MAI); components such as the eID Server will not be made publicly available for security reasons.
+
+### Trustworthy wallets
+
+All Romanian EUDI Wallets have to fulfil:
+
+* eIDAS regulation
+* the certification required by the applicable European and Romanian national requirements.
+* the trust model for as desribed in the [chapter trust](../../ecosystem-concepts/trust/)
+
+---
+
+## Catalogue of Attestations
+
+<!-- RO modification: Catalogue of Attestations -->
+# Catalogue of Attestations
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Anatomy of a Credential
+
+<!-- RO modification: Anatomy of a Credential -->
+# Anatomy of a Credential
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Designing Well-Made EAAs
+
+<!-- RO modification: Designing Well-Made EAAs -->
+# Designing Well-Made EAAs
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## EAA Issuance with OpenID4VCI
+
+<!-- RO modification: EAA Issuance with OpenID4VCI -->
+# EAA Issuance with OpenID4VCI
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## EAA Presentation with OpenID4VP
+
+<!-- RO modification: EAA Presentation with OpenID4VP -->
+# EAA Presentation with OpenID4VP
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Electronic Attestations of Attributes (EAA)
+
+<!-- RO modification: Electronic Attestations of Attributes (EAA) -->
+# Electronic Attestations of Attributes (EAA)
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(PID)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Romanian PID Rulebook
+
+<!-- RO modification: Romanian PID Rulebook -->
+# Romanian PID Rulebook
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Ecosystem Architecture(7)
+
+<!-- RO modification: Ecosystem Architecture -->
+# Ecosystem Architecture
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Glossary
+
+<!-- RO modification: Glossary -->
+
+# Glossary
+
+This document uses the following terms and abbreviations:
+
+| Term | Definition | Reference |
+| ---- | ---------- | --------- |
+| **Two Factor Authentication (2FA):** | *2FA is a security system that requires two distinct forms of identification in order to access something.* | |
+| **European Digital Identity Wallet Architecture and Reference Framework (ARF):** | *A toolbox including a technical Architecture and Reference Framework (ARF), a set of common standards and technical specifications, and a set of common guidelines and best practices.* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **Authentication:** | *The process of verifying that the claimed identity is valid. It involves proving that the user is indeed who they claim to be.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **Authorization:** | *The process of granting or denying specific permissions or access rights to resources, systems, or data based on the authenticated identity of a user or entity. It determines what an authenticated user or entity is allowed to do.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **brainpool:** | *A set of elliptic curve domain parameters over finite prime fields that are recommended for use in cryptographic applications.* | [RFC5639](https://datatracker.ietf.org/doc/html/rfc5639) |
+| **OAuth 2.0 Demonstrating Proof of Possession (DPoP):** | *DPoP binds a token to the client that requested it to protect against misuse.* | [DPoP](https://datatracker.ietf.org/doc/rfc9449/) |
+| **Electronic Attestation of Attributes (EAA):** | *‘Electronic Attestation of Attributes’ means an attestation in electronic form that allows the authentication of attributes.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) Article 3 (44) |
+| **Elliptic-curve Diffie–Hellman (ECDH):** | *Elliptic-curve Diffie–Hellman (ECDH) is a key agreement protocol that allows two parties, each having an elliptic-curve public–private key pair, to establish a shared secret over an insecure channel. This shared secret may be directly used as a key, or to derive another key.* | [RFC6090](https://datatracker.ietf.org/doc/html/rfc6090) |
+| **Romanian electronic identity card (CEI):** | *Cartea electronică de identitate: the Romanian electronic identity card, issued by DGEP on the basis of RNEP. It contains an electronic chip holding the cardholder's identity data and two digital certificates issued by DGEP: one for authentication and one for electronic signing. The chip is used for PID enrolment; it is not a source of PID attribute values.* | [Romanian PID Rulebook](features/PID/ro-pid-rulebook.md) |
+| **eID Server (eID-Server):** | *Server operated by DGEP that receives data read from the Romanian electronic identity card (CEI) chip via NFC by the RO Wallet mobile application during PID enrolment and verifies the data against the records in the National Register of Persons (RNEP).* | [Romanian PID Rulebook](features/PID/ro-pid-rulebook.md) RO_PID_31 |
+| **eIDAS regulation (eIDAS):** | *Regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **European Digital Identity Wallet (EUDIW):** | *‘European Digital Identity Wallet’ means an electronic identification, which allows the user to securely store, manage and validate identity data and electronic attestations of attributes, to provide them to relying parties and to other users of European Digital Identity Wallets, and to sign by means of qualified electronic signatures or to seal by means of qualified electronic seals.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **(European Digital Identity) Wallet Provider (EUDIW Provider, Wallet Provider):** | *The obligation to provide an EUDIW arises from the eIDAS Regulation. The MS determines whether it provides the EUDIW itself, mandates the provider(s) or recognizes one or more Wallet Provider(s) by another organization.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **embedded UICC (eUICC):** | *A removable or non-removable UICC which enables the secure remote and/or local management of Profiles.* | [GSMA](https://www.gsma.com/get-involved/working-groups/sim-working-group/embedded-sim) |
+| **Hash-based message authentication code (HMAC):** | *HMAC is a specific type of message authentication code involving a cryptographic hash function and a secret cryptographic key.* | [RFC6234](https://datatracker.ietf.org/doc/html/rfc6234) |
+| **Identity Owner (Holder):** | *The entity, such as a natural person, a legal person, or a device, which is subject of verifiable credentials from credential issuers and being in control of the reception, storage, and sharing of such credentials with relying parties.* [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) | |
+| **Hardware Security Module (HSM):** | *A HSM is a device for providing cryptographic functionalities whereas the life cycle of cryptographic keys and the performance of cryptographic functions is managed within a highly protected hardware environment.* | |
+| **Identification:** | *The process of claiming or recognizing an identity. It involves presenting an identifier that represents an individual or entity.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **Internet Engineering Task Force (IETF):** | *The Internet Engineering Task Force is a standards organization for the Internet and is responsible for the technical standards that make up the Internet protocol suite. It has no formal membership roster or requirements and all its participants are volunteers.* | |
+| **International Organization for Standardization (ISO):** | *The International Organization for Standardization is an independent, non-governmental, international standard development organization composed of representatives from the national standards organizations of member countries.* | |
+| **PID presentation format (ISO mdoc):** | | |
+| **Issuer:** | *An entity that issues credentials to a Holder. Sometimes referred to as Provider.* | [OpenID4VCI](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) |
+| **JSON Web Token (JWT):** | *JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.* | [RFC7519](https://datatracker.ietf.org/doc/html/rfc7519) |
+| **Level of Assurance (LoA):** | | [eIDAS Levels of Assurance (LoA)](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eIDAS+Levels+of+Assurance) |
+| **Message Authentication Code (MAC):** | *The result of a HMAC performance.* | [RFC8446](https://datatracker.ietf.org/doc/html/rfc8446) |
+| **OpenID for Verifiable Credential Issuance (OpenID4VCI):** | *OAuth protected API for the issuance of Verifiable Credentials.* | [OpenID4VCI](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) |
+| **OpenID for Verifiable Presentations (OpenID4VP):** | *A mechanism on top of OAuth 2.0 [RFC6749](https://datatracker.ietf.org/doc/html/rfc6749) that enables presentation of Verifiable Credentials as Verifiable Presentations.* | [OpenID4VP](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html) |
+| **Person Identification Data (PID):** | *‘Person Identification Data’ means a set of data, issued in accordance with Union or national law, enabling the identity of a natural or legal person, or of a natural person representing a natural or legal person, to be established.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **overasking** | *A situation where a Relying Party requests more information than is necessary for the specific purpose of the transaction, potentially violating the GDPR.* | |
+| **Person Identification Data Issuer (PID Provider (PI)):** | *A Member State or other legal entity issuing Person Identification Data to Users for later use.* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **Person Identification Data Provider (PID Provider (PP)):** | *A Member State or other legal entity providing Person Identification Data to Users.* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **Public Key Infrastructure (PKI):** | *Systems, software, and communication protocols that are used by RO Wallet Ecosystem components to distribute, manage, and control public keys. A PKI publishes public keys and establishes trust within an environment by validating and verifying the public keys mapping to an entity.* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **Proof of Possession (PoP):** | *Evidence provided by the Wallet regarding the possession of the respective key material.* | |
+| **Qualified Electronic Attestation of Attributes (QEAA):** | *‘Qualified Electronic Attestation of Attributes’ means an electronic attestation of attributes, which is issued by a qualified trust service provider and meets the requirements laid down in Annex V.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html)  Article 3 (45) |
+| **Qualified Electronic Signature (QES):** | *‘Qualified Electronic Signature’ means an advanced electronic signature that is created by a qualified electronic signature creation device, and which is based on a qualified certificate for electronic signatures.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) |
+| **Qualified Trust Service Provider (QTSP):** | *A Trust Service Provider who provides one or more Qualified Trust Services and is granted the qualified status by the supervisory body.* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **Relying Party (RP):** | *‘Relying Party’ means a natural or legal person that relies upon an electronic identification, European Digital Identity Wallets or other electronic identification means, or a trust service.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) Article 3 (6) |
+| **Selective Disclosure for JWT (SD-JWT):** | *A composite structure, consisting of an Issuer-signed JWT (JWS, [RFC7515](https://datatracker.ietf.org/doc/html/rfc7515)), Disclosures and optionally a Key Binding JWT that supports selective disclosure.* | [SD-JWT](https://datatracker.ietf.org/doc/rfc9901/) |
+| **SD-JWT-based Verifiable Credentials (SD-JWT VC):** | *Verifiable Credentials with JSON payloads with and without selective disclosure based on the SD-JWT format.* | [SD-JWT VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) |
+| **Secure Element (SE):** | *Secure Elements are physical components in electronic devices that securely store and protect sensitive data and applications and may provide certain secure cryptographic operations.* | |
+| **Seed Credential:** | *To Be Decided (TBD) -- the Seed Credential mechanism is still under technical analysis for the RO Wallet and no final decision has been made on its implementation.* | |
+| **Trusted List (Trusted List):** | *List that provides information about the status and the status history of the trust services from trust service providers regarding compliance with the applicable requirements and the relevant provisions of the applicable legislation (based on ETSI TS 119 612).* | [ARF 3.0.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v3.0.0) |
+| **Trust Service Provider (TSP):** | *A natural or a legal person who provides one or more Trust Services, either as a qualified or as a non-qualified Trust Service Provider.* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **Interacting entity (User):** | *A natural or legal person using RO Wallet. Also referred to as Holder.* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **User Experience / User Interface (UX/UI):** | *The user interaction work flow (UX) and the user interaction functional and visual elements (UI) of a software and/or hardware application.* | [Wikipedia User experience design](https://en.wikipedia.org/wiki/User_experience_design) |
+| **Verifiable Credential (VC):** | *A credential created by an Issuer in a way that the integrity and authenticity of the credential can be cryptographically verified.* | [OpenID4VCI](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) |
+| **Wallet Secure Cryptographic Device (WSCD):** | *Hardware-backed secure environment for creating, storing, and/or managing cryptographic keys and data. Examples include Secure Elements (SE), Trusted Execution Environments (TEEs), and (remote or local) Hardware Security Module (HSM).* | [ARF 1.2.0](https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/tree/v1.2.0) |
+| **Mobile Device Vulnerability Management (MDVM):** | *Wallet Provider service that verifies platform attestation, device class and known vulnerabilities and issues time-limited MDVM tokens bound to the possession key of the Wallet Instance.* | |
+| **Remote Wallet Secure Cryptographic Application (RWSCA):** | *Wallet Provider service that lets an authenticated Wallet Instance use keys held in a Hardware Security Module (Remote WSCD); requires a possession factor and a PIN knowledge factor.* | |
+| **Wallet Provider Backend (WPB):** | *Wallet Provider service that manages Wallet Instance accounts and issues Wallet Instance Attestations (WIA), including revocation and purge handling.* | |
+| **Romanian National Register of Persons (RNEP):** | *Registrul Național de Evidență a Persoanelor, the authoritative source of the PID attribute values.* | [Romanian PID Rulebook](features/PID/ro-pid-rulebook.md) |
+| **National Register of Wallet Relying Parties (RNBP):** | *The national register operated and administered by the Special Telecommunications Service (STS), which records entities participating in the RO Wallet Ecosystem, including the PID Provider, electronic attestation of attributes providers (EAA, QEAA and Pub-EAA), and public and private relying parties. The register supports the registration and verification of these entities within the RO Wallet Ecosystem.* | |
+| **Wallet-Relying Party (WRP):** | *wallet-relying party means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction.* | [eIDAS](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0117_EN.html) Article 5b |
+
+---
+
+## Upcoming Features
+
+<!-- RO modification: Upcoming Features -->
+# Upcoming Features
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## Wallet Function: Qualified Electronic Signature (QES)
+
+<!-- RO modification: Wallet Function: Qualified Electronic Signature (QES) -->
+# Wallet Function: Qualified Electronic Signature (QES)
+
+<!-- Removed in RO Wallet -- not part of this release; the chapter follows in a later release -->
+
+**Planned update**
+
+This section will be completed and expanded in a future release.
+
+---
+
+## How to Read This Blueprint
+
+<!-- RO modification: How to Read This Blueprint -->
+# How to Read This Blueprint
+
+This document combines policy, governance, and technical architecture perspectives. The following guide aims to help readers find the sections most relevant to them.
+
+---
+
+## If you want to understand the overall idea
+
+Start with:
+
+- Ecosystem Vision & Fundamentals
+- Ecosystem Concepts
+- RO Wallet Value Proposition
+
+---
+
+## If you are responsible for governance or regulation
+
+Focus on [Governance & Operation Model](./content/ecosystem-vision-and-fundamentals/governance-and-operation-model.md)
+
+These chapters describe **rule-setting, onboarding, and supervision**, not technical validation.
+
+---
+
+## If you are implementing a wallet or relying party
+
+Focus on:
+
+- [Ecosystem Concepts](./content/ecosystem-concepts/introduction-and-goals.md)
+- [Trust → Validation](./content/ecosystem-concepts/trust/trust-validation.md)
+- [Wallet Relying Party Authentication](./content/ecosystem-concepts/trust/wallet-relying-party-authentication.md)
+
+These chapters describe **technical trust establishment and validation logic**.
+
+---
+
+## Trust, Governance, and Oversight — a clarification
+
+Trust validation in this blueprint refers to **local, cryptographic validation** performed by wallets and relying parties using trust lists and trust anchors.
+
+It is **not** a governance or supervisory activity.
+
+Governance defines _who may issue_.  
+Trust validation defines _how artefacts are verified_.
+
+---
+
+## Appendix
+
+The appendix provides detailed flows and rulebooks referenced from the main chapters. It is not intended to be read linearly.
+
+---
+
+## Blueprint for the RO Wallet Ecosystem in Romania
+
+<!-- RO modification: Landing page -->
+# Blueprint for the RO Wallet Ecosystem in Romania
+
+Everything you need to understand the architecture, trust model, governance, and core features of the RO Wallet Ecosystem.
+
+## Discover
+
+Ecosystem Fundamentals
+Understand the purpose, actors, value proposition, standards, and operating model of the RO Wallet Ecosystem.
+
+Ecosystem Concepts
+Explore goals, constraints, building blocks, deployment concepts, security, privacy, and trust foundations.
+
+PID
+Read the Romanian PID Rulebook and the current design decisions and runtime views for PID issuance and presentation.
+
+EAA
+Review credential anatomy, design recommendations, the catalogue of attestations, and EAA issuance and presentation flows.
+
+## Integrate
+
+<!-- Removed in RO Wallet -- link pointed to the German developer guide; an RO developer guide is planned and will be published at a later stage -->
+
+Wallet Architecture
+Dive into the implementation-specific architecture documentation of the RO Wallet (progressively updated during implementation).
+
+How to Read This Blueprint
+Use the reader guidance to find the sections most relevant to your role and level of technical depth.
+
+Trust Decision Guide
+Understand trust establishment and validation decisions across PID, EAA, QEAA, relying parties, and wallet components.
+
+## About This Blueprint
+
+This document is part of Romania’s process for implementing the EU Digital Identity Wallet (EUDIW). It proposes **architectural, governance, and operational models** for the RO Wallet Ecosystem that is interoperable across the EU while respecting Romania’s legal, technical, and institutional landscape.
+
+It is based on the **eIDAS Regulation**, the **Architecture and Reference Framework (ARF)**, relevant **ETSI specifications**, national requirements, and identified use cases.
+
+The blueprint serves as a **discussion and design basis**, not as a final or binding specification. Future ARF updates and Implementing Acts may influence the final design.
+
+## Audience
+
+This document is intended for:
+
+- policy makers and regulators
+- public and private service providers
+- wallet and relying party implementers
+- auditors and conformity assessment bodies
+- standards and ecosystem contributors
+- other interested parties or individuals that want to better understand the ecosystem
+
+Different sections are relevant depending on the reader’s role.
+
+:::info Looking for Wallet implementation details?
+
+<!-- RO modification: Landing page -->
+This blueprint describes the **ecosystem and trust architecture**, not a concrete wallet implementation.
+Please refer to the [**Architecture Documentation of the RO Wallet**](https://ministerul-afacerilor-interne.github.io/rowallet-documentation/latest/) for implementation-specific architecture, flows, and interfaces.
+
+:::
+
+## Additional Links
+
+Glossary
+Look up key ecosystem, identity, credential, and trust terminology used throughout the blueprint.
+
+Feedback
+Send feedback, questions, or proposed improvements for this blueprint by email.
+
+Repository
+Browse the public source repository of this blueprint on GitHub.
+
+## Providing Feedback
+
+We welcome feedback on all aspects of this blueprint, including:
+
+- clarity and completeness of the descriptions
+- architectural soundness
+- security, privacy, and user experience considerations
+- operational feasibility and complexity
+
+<!-- RO modification: Landing page -->
+Please send feedback to [contact.rowallet@mai.gov.ro](mailto:contact.rowallet@mai.gov.ro).
+
+---
+
+## Change History
+
+<!-- RO modification: Change History -->
+All changes to this document are tracked in [CHANGELOG-RO.md](https://github.com/Ministerul-Afacerilor-Interne/rowallet-blueprint/blob/main/CHANGELOG-RO.md).

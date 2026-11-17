@@ -1,9 +1,0 @@
-.git
-.gitlab
-node_modules
-build
-.docusaurus
-venv
-.cache
-.DS_Store
-*.log

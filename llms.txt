@@ -1,0 +1,63 @@
+# RO Wallet Blueprint
+
+> Architecture, governance, and operational models for the RO Wallet Ecosystem.
+
+Version: latest
+
+This file lists the main documentation pages for the RO Wallet Blueprint.
+
+## Table of Contents
+
+- [Wallet Function: PID Issuance and Presentation](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/00-pid-issuance-and-presentation/): <!-- RO modification: Wallet Function: PID Issuance and Presentation -->
+- [Wallet Function: (Q)EAA Issuance and Presentation](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/01-qeaa-issuance-and-presentation/): <!-- RO modification: Wallet Function: (Q)EAA Issuance and Presentation -->
+- [Pseudonym](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/02-pseudonym/): <!-- RO modification: Pseudonym -->
+- [Wallet Function: Combined Presentation](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/03-combined-presentation/): <!-- RO modification: Wallet Function: Combined Presentation -->
+- [EAA Disclosure Policies](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/06-disclosure-policies/): <!-- RO modification: EAA Disclosure Policies -->
+- [EUDI Wallet Link Governance and Implementation Hints](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/EUDI-link-governance/): <!-- RO modification: EUDI Wallet Link Governance and Implementation Hints -->
+- [OID4VC Protocol Integration](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/OID4VC-with-WRP-attestations/): <!-- RO modification: OID4VC Protocol Integration -->
+- [PID Option B': Authenticated Channel with Cloud Support](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/PID-AuthenticatedChannel-cloud/): <!-- RO modification: PID Option B': Authenticated Channel with Cloud Support -->
+- [PID Option B: Authenticated Channel with eID Card (B) with mDoc, ISO REST API](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/PID-AuthenticatedChannel-eIDcard-RESTAPI/): <!-- RO modification: PID Option B: Authenticated Channel with eID Card (B) with mDoc, ISO REST API -->
+- [PID Option B: Authenticated Channel with eID Card](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/PID-AuthenticatedChannel-eIDcard/): <!-- RO modification: PID Option B: Authenticated Channel with eID Card -->
+- [PID Option D: Authenticated Channel with Secure Element](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/PID-AuthenticatedChannel-secureElement/): <!-- RO modification: PID Option D: Authenticated Channel with Secure Element -->
+- [PID Option C'': Signed Credential with eID Card](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/PID-IssuerSigned-eIDcard/): <!-- RO modification: PID Option C'': Signed Credential with eID Card -->
+- [PID Option C: Signed Credential with Secure Element](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/PID-IssuerSigned/): <!-- RO modification: PID Option C: Signed Credential with Secure Element -->
+- [Presentation during Issuance](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/Presentation-During-Issuance/): <!-- RO modification: Presentation during Issuance -->
+- [Wallet Attestation](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/flows/Wallet-Attestation/): <!-- RO modification: Wallet Attestation -->
+- [Archive](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/archive/): <!-- RO modification: Archive -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/building-block-view/): <!-- RO modification: Ecosystem Architecture -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/constraints-and-decisions/): <!-- RO modification: Ecosystem Architecture -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/crosscutting-concepts/privacy-requirements/): <!-- RO modification: Ecosystem Architecture -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/crosscutting-concepts/security-requirements/): <!-- RO modification: Ecosystem Architecture -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/deployment-view/): <!-- RO modification: Ecosystem Architecture -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/): <!-- RO modification: Ecosystem Architecture -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/introduction-and-goals/): <!-- RO modification: Ecosystem Architecture -->
+- [Trust in the RO Wallet Ecosystem](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/decision-guide/): <!-- RO modification: Trust in the RO Wallet Ecosystem -->
+- [Trust Management in the RO Wallet Ecosystem](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/): <!-- RO modification: Trust Management in the RO Wallet Ecosystem -->
+- [National RO Wallet Trust List Publication Procedure](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/national-trust-list/): <!-- RO modification: National RO Wallet Trust List Publication Procedure -->
+- [Overasking Protection](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/overasking-protection/): <!-- RO modification: Overasking Protection -->
+- [PKI and Trust Anchor](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/pki-and-trust-anchor/): <!-- RO modification: PKI and Trust Anchor -->
+- [Status Management](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/status-management/): <!-- RO modification: Status Management -->
+- [Trust Validation Overview](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/trust-validation/): <!-- RO modification: Trust Validation Overview -->
+- [Trust in EAA Issuance and Presentation](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/trust_eaa_issuance_presentation/): <!-- RO modification: Trust in EAA Issuance and Presentation -->
+- [Trust in PID Issuance and Presentation](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/trust_pid_issuance_presentation/): <!-- RO modification: Trust in PID Issuance and Presentation -->
+- [Trust in QEAA and PubEAA Issuance and Presentation](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/trust_q_pub_eaa_issuance_presentation/): <!-- RO modification: Trust in QEAA and PubEAA Issuance and Presentation -->
+- [Wallet-Relying Party Authentication](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-concepts/trust/wallet-relying-party-authentication/): <!-- RO modification: Wallet-Relying Party Authentication -->
+- [Ecosystem Vision & Fundamentals](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/EUDI-value-proposition/): <!-- RO modification: Ecosystem Vision & Fundamentals -->
+- [RO Wallet Ecosystem Governance and Operating Model Fundamentals](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model/): <!-- RO modification: Governance and Operating Model -->
+- [Standards](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/standards/): <!-- RO modification: Standards -->
+- [Ecosystem Vision & Fundamentals](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem/): <!-- RO modification: Ecosystem Overview -->
+- [Ecosystem Vision & Fundamentals](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/what-is-the-wallet/): Ecosystem Vision & Fundamentals
+- [Catalogue of Attestations](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/EAA/catalog-of-attestations/): <!-- RO modification: Catalogue of Attestations -->
+- [Anatomy of a Credential](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/EAA/credential-anatomy/): <!-- RO modification: Anatomy of a Credential -->
+- [Designing Well-Made EAAs](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/EAA/design-recommendations/): <!-- RO modification: Designing Well-Made EAAs -->
+- [EAA Issuance with OpenID4VCI](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/EAA/EAA-Issuance-OpenID4VC/): <!-- RO modification: EAA Issuance with OpenID4VCI -->
+- [EAA Presentation with OpenID4VP](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/EAA/EAA-Presentation-OpenID4VC/): <!-- RO modification: EAA Presentation with OpenID4VP -->
+- [Electronic Attestations of Attributes (EAA)](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/EAA/): <!-- RO modification: Electronic Attestations of Attributes (EAA) -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/PID/design-decisions/): <!-- RO modification: Ecosystem Architecture -->
+- [Romanian PID Rulebook](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/PID/ro-pid-rulebook/): <!-- RO modification: Romanian PID Rulebook -->
+- [Ecosystem Architecture](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/features/PID/runtime-views/): <!-- RO modification: Ecosystem Architecture -->
+- [Glossary](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/glossary/): <!-- RO modification: Glossary -->
+- [Upcoming Features](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/upcoming-features/): <!-- RO modification: Upcoming Features -->
+- [Wallet Function: Qualified Electronic Signature (QES)](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/upcoming-features/qes/): <!-- RO modification: Wallet Function: Qualified Electronic Signature (QES) -->
+- [How to Read This Blueprint](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/how-to-read-the-blueprint/): <!-- RO modification: How to Read This Blueprint -->
+- [Blueprint for the RO Wallet Ecosystem in Romania](https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/): <!-- RO modification: Landing page -->

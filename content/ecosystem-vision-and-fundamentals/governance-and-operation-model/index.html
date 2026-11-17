@@ -1,0 +1,620 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-content/ecosystem-vision-and-fundamentals/governance-and-operation-model" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.10.2">
+<title data-rh="true">governance-and-operation-model | RO Wallet Blueprint</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model/"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="governance-and-operation-model | RO Wallet Blueprint"><meta data-rh="true" name="description" content="This section presents the core principles and foundational concepts for the"><meta data-rh="true" property="og:description" content="This section presents the core principles and foundational concepts for the"><link data-rh="true" rel="icon" href="/rowallet-blueprint/img/favicon.svg"><link data-rh="true" rel="canonical" href="https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model/"><link data-rh="true" rel="alternate" href="https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model/" hreflang="en"><link data-rh="true" rel="alternate" href="https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model/" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Governance & Operation Model","item":"https://ministerul-afacerilor-interne.github.io/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model"}]}</script><link rel="stylesheet" href="/rowallet-blueprint/assets/css/styles.f9443a28.css">
+<script src="/rowallet-blueprint/assets/js/runtime~main.895edfe1.js" defer="defer"></script>
+<script src="/rowallet-blueprint/assets/js/main.2db19d35.js" defer="defer"></script>
+</head>
+<body>
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||"light"),document.documentElement.setAttribute("data-theme-choice",t||"light")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><link rel="preload" as="image" href="/rowallet-blueprint/img/ro-wallet-logo-horizontal-white.svg"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/rowallet-blueprint/"><div class="navbar__logo"><img src="/rowallet-blueprint/img/ro-wallet-logo-horizontal-white.svg" alt="RO Wallet" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/rowallet-blueprint/img/ro-wallet-logo-horizontal-white.svg" alt="RO Wallet" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Blueprint</b></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model/">latest</a><div class="navbar__item dropdown dropdown--hoverable"><a href="#" aria-haspopup="true" aria-expanded="false" role="button" class="navbar__link">Documentation</a><ul class="dropdown__menu"><li><a aria-current="page" class="dropdown__link dropdown__link--active" href="/rowallet-blueprint/">Blueprint</a></li><li><a href="https://ministerul-afacerilor-interne.github.io/rowallet-documentation/latest/" target="_blank" rel="noopener noreferrer" class="dropdown__link">Wallet Architecture<svg width="12" height="12" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a></li></ul></div></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/Ministerul-Afacerilor-Interne/rowallet-blueprint" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">Repository<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><div class="navbar__search searchBarContainer_NW3z" dir="ltr"><svg aria-hidden="true" class="searchIcon_T3tP" focusable="false" viewBox="0 0 16 16"><path fill="currentColor" d="M6.02945 10.20327a4.17382 4.17382 0 1 1 4.17382-4.17382 4.15609 4.15609 0 0 1-4.17382 4.17382Zm9.69195 4.2199-4.8225-4.82338A5.88021 5.88021 0 0 0 12.058 6.02856 6.00467 6.00467 0 1 0 9.59979 10.8989l4.82338 4.82338a.89729.89729 0 0 0 1.29912 0 .89749.89749 0 0 0-.00087-1.29909Z"></path></svg><input placeholder="Search" aria-label="Search" class="navbar__search-input searchInput_YFbd" value=""><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/rowallet-blueprint/"><span class="linkLabel_WmDU">Home</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/rowallet-blueprint/how-to-read-the-blueprint/"><span class="linkLabel_WmDU">How to Read This Blueprint</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem/"><span class="categoryLinkLabel_W154">Ecosystem Vision &amp; Fundamentals</span></a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem/"><span class="linkLabel_WmDU">What is the Ecosystem?</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/what-is-the-wallet/"><span class="linkLabel_WmDU">What is the Wallet?</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/standards/"><span class="linkLabel_WmDU">Standards</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" tabindex="0" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/EUDI-value-proposition/"><span class="categoryLinkLabel_W154">Foundations</span></a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/EUDI-value-proposition/"><span class="linkLabel_WmDU">RO Wallet Value Proposition</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/governance-and-operation-model/"><span class="linkLabel_WmDU">Governance &amp; Operation Model</span></a></li></ul></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/rowallet-blueprint/content/ecosystem-concepts/"><span class="categoryLinkLabel_W154">Ecosystem Concepts</span></a><button aria-label="Expand sidebar category &#x27;Ecosystem Concepts&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" href="/rowallet-blueprint/content/features/PID/ro-pid-rulebook/"><span class="categoryLinkLabel_W154">Features</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/rowallet-blueprint/content/upcoming-features/"><span class="categoryLinkLabel_W154">Upcoming Features</span></a><button aria-label="Expand sidebar category &#x27;Upcoming Features&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/rowallet-blueprint/content/glossary/"><span class="linkLabel_WmDU">Glossary</span></a></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/rowallet-blueprint/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">Ecosystem Vision &amp; Fundamentals</span></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">Foundations</span></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Governance &amp; Operation Model</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>RO Wallet Ecosystem Governance and Operating Model Fundamentals</h1></header>
+<p>This section presents the core principles and foundational concepts for the
+design and implementation of the RO Wallet Ecosystem governance and
+RO Wallet infrastructure operating model based on the EU eIDAS regulation
+adapted to the Romanian context. This document is created iteratively and is
+continuously expanded and adapted. We value your feedback and suggestions and
+will integrate them into our FAQ and future updates.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="empowering-citizens-and-residents-real-choices-for-self-determination-with-safeguards-in-the-digital-realm">Empowering Citizens and Residents: Real Choices for Self-Determination with Safeguards in the Digital Realm<a href="#empowering-citizens-and-residents-real-choices-for-self-determination-with-safeguards-in-the-digital-realm" class="hash-link" aria-label="Direct link to Empowering Citizens and Residents: Real Choices for Self-Determination with Safeguards in the Digital Realm" title="Direct link to Empowering Citizens and Residents: Real Choices for Self-Determination with Safeguards in the Digital Realm" translate="no">​</a></h2>
+<p>During the initial phase, the RO Wallet solution will be
+available to <strong>Romanian citizens who hold an electronic identity card (CEI)</strong>.
+Extending the availability of the RO Wallet solution to Romanian citizens holding other identity documents, and to foreign residents in
+Romania is being assessed and considered for a subsequent development phase
+during 2027.</p>
+<p>The aim of this chapter is to provide an overview about the value proposition of
+the RO Wallet Ecosystem for citizens and residents.RO Wallet empowers users by simplifying access to services,
+reducing administrative burdens, and offering full control over personal data,
+while ensuring privacy, security, and legal recognition of electronic
+attestations and signatures across the EU. The RO Wallet Ecosystem provides
+the following value for citizens and residents:</p>
+<p>Comfort and efficiency</p>
+<ul>
+<li class="">Wallet as digital assistant for managing all kind of attestations in one place</li>
+<li class="">Leaving physical documents at home</li>
+<li class="">Good user experience</li>
+<li class="">Simplified onboarding process for new services</li>
+<li class="">Reduce administrative hurdles for users</li>
+</ul>
+<p>Better access to services</p>
+<ul>
+<li class="">Non-discriminatory access for all actors</li>
+<li class="">Access to wide range of public and private services across the European Union
+both online and offline</li>
+<li class="">Opportunity to providing fully digitized business processes</li>
+<li class="">Enable powers of representation (e.g. natural and legal persons)</li>
+<li class="">Support of cross-border mobility</li>
+<li class="">Interoperable e-government services</li>
+</ul>
+<p>Control and transparency over personal data</p>
+<ul>
+<li class="">Exercise their rights in the digital economy/society</li>
+<li class="">Decide what personal data is shared with whom (digital identity under their
+sole control)</li>
+<li class="">Identify the Relying Party the personal data is shared with (accountability of
+the RP)</li>
+<li class="">Identify the PID or (qualified) EAA provider from which the PID/EAA was issued</li>
+<li class="">Access a summary of personal data exchanged with Relying Parties and
+PID/(Q)EAA providers, along with details of electronic signatures generated</li>
+</ul>
+<p>Enhanced privacy for sharing personal data digitally</p>
+<ul>
+<li class="">Enable privacy preserving techniques which ensure unlinkability, where the
+attestation of attributes does not require the identification of the user</li>
+<li class="">Relying Parties are not allowed to force the identification of users without
+legal basis and shall not refuse the use of pseudonyms, where the
+identification of the user is not required by Union or national law</li>
+<li class="">Support the pseudonymous use of services:Relying parties shall not refuse the
+use of pseudonyms, where the identification of the user is not required by
+Union or national law</li>
+<li class="">Data minimization: only personal data that is absolutely required for the
+business process is shared with Relying Parties</li>
+<li class="">Compared to presenting physical documents, only data that is strictly needed
+is shared within the use electronic attestations</li>
+<li class="">Unobservability – ensuring that neither the wallet provider nor the
+(qualified) EAA providers can monitor user activities.</li>
+</ul>
+<p>High security level</p>
+<ul>
+<li class="">High level of security and trustworthiness</li>
+<li class="">Decentralized architecture with no single eID database for all users reducing
+impact of data breaches (Romanian eID/ RO Wallet Ecosystem)</li>
+<li class="">Protection against cybersecurity risks and cybercrime, identity theft and
+online fraud19</li>
+<li class="">Safeguarding personal information from unauthorized or fraudulent use</li>
+<li class="">Support Strong User Authentication to replace user name/password
+authentication</li>
+</ul>
+<p>Legal recognition and harmonization</p>
+<ul>
+<li class="">
+<p><strong>The use of the RO Wallet is entirely voluntary, and individuals are free to
+choose whether or not to use it, without facing any negative consequences</strong></p>
+</li>
+<li class="">
+<p>Every citizen and resident has the right to get access to and to use RO Wallet
+free of charge across all member states</p>
+</li>
+<li class="">
+<p>Electronic attestations of attributes issued by the public sector have the
+same legal value as paper attestations across the Union (for PubEAA)</p>
+</li>
+<li class="">
+<p>Empower citizens and residents to fully benefit from digitalization</p>
+</li>
+</ul>
+<p>Free Qualified Electronic Signatures for non-professional use</p>
+<ul>
+<li class="">Provide citizens and residents with a reliable and legally recognized means to
+sign documents digitally</li>
+<li class="">Provide citizens and residents with free of charge qualified electronic
+signatures for non-professional purposes</li>
+<li class="">Sign self-claimed assertions or attributes</li>
+<li class="">Sign a power of attorney statement</li>
+<li class="">Enable Relying Parties to request qualified electronic signatures from RO Wallet users, facilitating the digital signing of documents and transactions.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="driving-societal-progress-the-ro-wallet-infrastructure-is-a-foundational-digital-public-infrastructure-for-society">Driving Societal Progress: The RO Wallet Infrastructure is a Foundational Digital Public Infrastructure for Society<a href="#driving-societal-progress-the-ro-wallet-infrastructure-is-a-foundational-digital-public-infrastructure-for-society" class="hash-link" aria-label="Direct link to Driving Societal Progress: The RO Wallet Infrastructure is a Foundational Digital Public Infrastructure for Society" title="Direct link to Driving Societal Progress: The RO Wallet Infrastructure is a Foundational Digital Public Infrastructure for Society" translate="no">​</a></h2>
+<p>This chapter aims to provide an overview of the value proposition of the RO
+Wallet Ecosystem for the Romanian society and explains why the Romanian government
+should invest and drive the implementation of the RO Wallet Ecosystem.</p>
+<p>The digital transformation of Romanian Society shall empower the sovereignty of
+citizens and residents in a digital space that is less prone to fraud and
+enables the creation of economic value. To establish the underlying ecosystem at
+level playing field shall be created for all RO Wallet Ecosystem actors - such
+as public and private service providers.</p>
+<p>Enable the digital transformation of Romanian Society</p>
+<ul>
+<li class="">Deploy wallet ecosystem as facilitator for the digital transformation</li>
+<li class="">Provide at least one wallet solution independent of commercial success
+criteria</li>
+<li class="">Foster innovations as basis for a reliable digital infrastructure</li>
+<li class="">Create a level playing field for all stakeholders in the ecosystem (fair
+competition)</li>
+<li class="">Enable freedom of choice regarding the RO Wallet for citizens and residents
+to foster trust and innovation</li>
+</ul>
+<p>Improve the sovereignty of citizens and residents</p>
+<ul>
+<li class="">Empower citizens and residents to act independently and confidently in their
+digital lives</li>
+<li class="">Bridge the digital divide in our society through inclusive design</li>
+<li class="">Avoid surveillance by design</li>
+</ul>
+<p>Establish an interconnected ecosystem between all EU member states</p>
+<ul>
+<li class="">Seamless and secure digital interactions across the EU for all ecosystem
+participants, esp. Users, Relying Parties and EAA Providers</li>
+<li class="">EU wide non-discriminatory ecosystem access to all EUDI wallets for EAA
+Providers and Relying Parties</li>
+</ul>
+<p>Improve security and trust for the digital space</p>
+<ul>
+<li class="">Harmonized oversight and trust infrastructure</li>
+<li class="">Ensure accountability of all stakeholders in the ecosystem</li>
+<li class="">Reduce fraud and cybercrime</li>
+<li class="">Protect users against unauthorized or fraudulent use of their digital
+identities</li>
+</ul>
+<p>Foster economic value creation</p>
+<ul>
+<li class="">Enable public administrations and private organizations to make their
+processes more user friendly, transparent and efficient</li>
+<li class="">Enable Relying Parties to reduce their operational costs linked to electronic
+identification and authentication</li>
+<li class="">Promote the secure digital transformation of SMEs</li>
+<li class="">Facilitate easier access to services across borders, reduce administrative
+burdens</li>
+<li class="">Enable commercial business models on top of the infrastructure</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="splitting-responsibilities-differentiation-between-a-government-cooperative-and-competitive-space-for-efficient-collaboration">Splitting Responsibilities: Differentiation between a Government, Cooperative and Competitive Space for Efficient Collaboration<a href="#splitting-responsibilities-differentiation-between-a-government-cooperative-and-competitive-space-for-efficient-collaboration" class="hash-link" aria-label="Direct link to Splitting Responsibilities: Differentiation between a Government, Cooperative and Competitive Space for Efficient Collaboration" title="Direct link to Splitting Responsibilities: Differentiation between a Government, Cooperative and Competitive Space for Efficient Collaboration" translate="no">​</a></h2>
+<p>The emergence of the RO Wallet Ecosystem requires a division of
+responsibilities between government tasks (government space), public-private
+cooperation (cooperative space) and individual differentiation and
+specialization (competitive space). Figure 1 provides an overview of the
+conceptual framework for the three responsibility spaces.</p>
+<p><img decoding="async" loading="lazy" alt="Responsibility Spaces." src="/rowallet-blueprint/assets/images/EGOM_Figure 1_Three Spaces-af196876e291bcec99a66aa3c448aaae.png" width="1778" height="678" class="img_ev3q"></p>
+<p><em>Figure 1: Mapping the responsibilities of the government, cooperative and
+competition space</em></p>
+<p>The government domain is dedicated to establishing the essential trust
+infrastructure for the RO Wallet Ecosystem. It ensures regulatory oversight,
+certification, enforcement, and the provision of public credentials, such as the
+Person Identification Data (PID) or a mobile Driving License, to boost
+credential sharing through the RO Wallet Ecosystem. The cooperative space
+between diverse public and private ecosystem actors aims to generate network
+effects through an acceptance network by offering a variety of domain-specific
+credentials and integrating multiple organizational use cases. This approach
+ensures a broad reach and drives widespread adoption of the public-private RO
+Wallet Ecosystem. In this context, &quot;public-private&quot; means that the RO Wallet
+Ecosystem extends beyond the public sector, encompassing the private sector,
+academia, and civil society. Furthermore, collaboration is needed to create
+common standards that ensure interoperability, foster ease of use and lead to a
+harmonized ecosystem beyond technical and organizational silos. In addition,
+co-creation is essential to reducing barriers through an open process aimed to
+develop fundamental ecosystem components that serve shared interests (e.g., the
+core RO Wallet). This approach helps lower overall costs for the RO Wallet
+Ecosystem and its individual actors.</p>
+<p>The integration of the government and cooperative spaces within the RO Wallet
+Ecosystem leads to an unified governance of the RO Wallet Ecosystem, grounded
+in European and national legislation that establishes the rules,
+responsibilities, and incentives necessary for effectively orchestrating an
+ecosystem comprising diverse independent organizations and individuals. It
+ensures the effective utilization of the underlying trust infrastructure,
+promotes value creation for both citizens and organizations, and minimizes
+misuse through preventive measures and appropriate sanctions. Additionally, a
+key aspect of orchestration involves communicating and educating stakeholders
+and the broader public about the RO Wallet Ecosystem. These efforts aim to
+ensure that the ecosystem is visible and operates in alignment with its
+objectives, fostering a sustainable and trusted environment.</p>
+<p>The competition space defines the area where ecosystem actors engage in
+competition and differentiation, fostering choice, innovation, and resilience
+through multiple offerings within the RO Wallet Ecosystem. The competition
+space is an integral part of the overall RO Wallet Ecosystem governance, which
+establishes rules and incentives to ensure fair competition and public
+accountability. At the same time, it strives to maximize market-driven
+mechanisms for the participating actors. In the competition space, three key
+opportunities emerge for innovation in products, services, and
+business/operating models. Organizations can leverage all three options to
+develop offerings that deliver value for, through, and on top of the RO Wallet
+Ecosystem:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="eudi-wallet-providers">EUDI Wallet Providers<a href="#eudi-wallet-providers" class="hash-link" aria-label="Direct link to EUDI Wallet Providers" title="Direct link to EUDI Wallet Providers" translate="no">​</a></h3>
+<p>EUDI Wallet Providers offer a EUDI Wallet solution to users, representing a
+product and service owned and managed by the eIDAS certified wallet
+provider. This offering can be provided as a standalone product or extended
+beyond the certified EUDI Wallet solution that can be characterized as the
+Wallet Infrastructure scope. The flexibility of the chosen architecture, which
+complies with certification requirements and supports additional features and
+services beyond the core EUDI Wallet instance, allows EUDI Wallet Providers to
+differentiate (e.g. through UX, user related features) themselves and offers
+users a range of choices.</p>
+<p>Illustrating Examples:</p>
+<ul>
+<li class="">
+<p>Instead of offering a standalone app, the EUDI Wallet solution can be
+integrated into existing consumer-facing applications, such as insurance´s,
+bank’s, airline’s or platform provider branded apps. In doing so, the EUDI
+wallet feature scope and interfaces must be the same to fulfill the upcoming
+certification requirements and interoperability. To meet upcoming
+certification requirements and ensure interoperability, the EUDI Wallet&#x27;s
+feature scope and interfaces must be the same, regardless of whether
+additional features beyond the EUDI wallet core are implemented. Features
+specific to the insurance, banking or airline services that extend beyond the
+core EUDI Wallet instance are not subject to the eIDAS EUDI wallet
+certification process. This approach also allows EUDI Wallet providers the
+flexibility to offer additional, potentially chargeable services for users on
+top of the certified wallet functionality. These added value services are not
+part of the EUDI wallet certification process but might be subject to other
+regulations (e.g. financial services).</p>
+</li>
+<li class="">
+<p>An existing identity and trust service providers can transition into an EUDI
+Wallet Provider, benefiting from the ecosystem&#x27;s reach and economic synergies
+with existing services, such as the provision of Qualified Electronic
+Signatures (QES) or Qualified Electronic Attestation of Attributes (QEAA).
+From the perspective of existing identity and trust services, the EUDI Wallet
+ecosystem serves as both a sales channel for established offerings and an
+opportunity to expand business activities through the EUDI wallet,
+particularly by engaging directly with users (2C market).</p>
+</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ecosystem-technology-service-providers">Ecosystem (Technology) Service Providers<a href="#ecosystem-technology-service-providers" class="hash-link" aria-label="Direct link to Ecosystem (Technology) Service Providers" title="Direct link to Ecosystem (Technology) Service Providers" translate="no">​</a></h3>
+<p>Ecosystem (Technology) Service Providers offer products and services that help
+organizations comply with RO Wallet Ecosystem requirements, ensuring active
+participation while maximizing value for individual stakeholders. While these
+providers do not hold an official role within the RO Wallet Ecosystem, they
+have a critical support function by empowering organizations to effectively
+fulfill their roles (e.g. become a provider or relying party) within the RO
+Wallet Ecosystem. They provide their products and services directly to
+individual organizations and receive financial compensation for the value they
+deliver. Here, market mechanisms define the success as these actors need to
+convince other organizations that they provide value.</p>
+<p>Illustrating Examples:</p>
+<ul>
+<li class="">
+<p>Conformity Assessment Bodies (CABs) are accredited organizations, authorized
+by the Romanian Accreditation Body (RENAR), responsible for conducting
+assessments that support the certification process for entities such as
+(possible) EUDI wallet providers. By ensuring compliance with the
+certification scheme, CABs enable organizations to become part of the RO
+Wallet Ecosystem. In return for their services, CABs are financially
+compensated by the organizations utilizing their service.</p>
+</li>
+<li class="">
+<p>Technology Service Providers offer organizations products and services to
+ensure technical compliance and an easy and quick integration with the RO
+Wallet Ecosystem requirements. For example, they might offer products and
+services to help organisations to register and onboard in the RO Wallet
+Ecosystem. Each organization evaluates the value of these offerings and, if
+deemed beneficial, compensates the technology service provider for the
+products or services they utilize.</p>
+</li>
+<li class="">
+<p>Consulting Service Providers assist organizations in strategically aligning
+with and leveraging the RO Wallet Ecosystem to benefit their customers. This
+support may include optimizing existing business processes through the
+integration of RO Wallet and utilizing the advantages offered by the
+ecosystem. For their advisory and consulting services, they are compensated by
+their customers.</p>
+</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="domain-organization-and-governance">Domain organization and governance<a href="#domain-organization-and-governance" class="hash-link" aria-label="Direct link to Domain organization and governance" title="Direct link to Domain organization and governance" translate="no">​</a></h3>
+<p>For the functioning of the RO Wallet Ecosystem, various attestations are of
+great importance. The provision of these attestations is carried out by
+individual organizations operating in specific domains. Domains are formed by
+groups of similar or industry-specific use cases. For example, e-prescriptions
+and health insurance applications are part of the &quot;Health&quot; domain, account
+openings and bank transfers are part of the &quot;Banking&quot; domain. Organizations and
+domains are responsible for managing their own trust frameworks. These
+domain-specific trust management mechanisms determine whether a domain-specific
+EAA provider is authorized to issue certain EAAs that are universally accepted
+within the domain. This includes defining the requirements for providing EAAs
+within the RO Wallet Ecosystem in alignment with domain-specific schemas,
+which may be mandated by specific disclosure policies to ensure their seamless
+integration and usage within the ecosystem. Domain-specific trust management may
+be shaped and defined by regulations specific to each domain, making compliance
+the responsibility of the respective domains and the organizations involved. For
+example, regulations such as PSD2 in the banking sector or AML requirements
+impose specific obligations that influence how banks interact with the RO
+Wallet Ecosystem.</p>
+<p>The interplay between the cooperation and competition space highlights the need
+for individual organizations and domains to develop their own strategy on how to
+interact with the RO Wallet Ecosystem. This includes defining to aim for an
+active role within the ecosystem, such as acting as a Relying Party, EAA
+provider or an EUDI Wallet provider, or focusing more on a supporting role as
+e.g. an Ecosystem (Technology) Service Provider that empowers other
+organizations to leverage the ecosystem effectively. Furthermore, it emphasizes
+the critical importance of fostering a cooperative space, particularly by
+establishing a broad public-private acceptance network with diverse use cases.
+This necessitates contributions from various domains (e.g. financial services,
+healthcare, mobility and ecommerce) to provide (Q)EAA credentials to the
+ecosystem, enabling users to access and utilize them through their EUDI wallets.
+It also empowers relying parties to optimize existing online and offline
+business processes while driving the development of innovative new offerings.</p>
+<p>The responsibilities within the RO Wallet Ecosystem can be split into I)
+responsibilities of the ecosystem, II) domain responsibilities and III)
+responsibilities of individual organizations:</p>
+<p>I) Ecosystem responsibilities</p>
+<ul>
+<li class="">Provide RO Wallet infrastructure including trust management</li>
+<li class="">Harmonize the regulatory framework to ensure the legal operation of the RO
+Wallet Ecosystem</li>
+<li class="">Develop and expand the RO Wallet
+Ecosystem while facilitating engagement with ecosystem stakeholders and the
+broader public</li>
+</ul>
+<p>II) Domain responsibilities</p>
+<ul>
+<li class="">Develop domain specific strategies to interact with the RO Wallet Ecosystem</li>
+<li class="">Define trust mechanisms and requirements to offer (Q)EAAs to the RO Wallet
+Ecosystem</li>
+</ul>
+<p>III) Organization responsibilities</p>
+<ul>
+<li class="">Develop organization specific strategies how to interact with the RO Wallet
+Ecosystem as relying party and/or EUDI wallet provider</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ecosystem-onboarding-consolidating-information-centralizing-access-and-enhancing-transparency-to-prevent-misuse">Ecosystem Onboarding: Consolidating Information, Centralizing Access, and Enhancing Transparency to Prevent Misuse<a href="#ecosystem-onboarding-consolidating-information-centralizing-access-and-enhancing-transparency-to-prevent-misuse" class="hash-link" aria-label="Direct link to Ecosystem Onboarding: Consolidating Information, Centralizing Access, and Enhancing Transparency to Prevent Misuse" title="Direct link to Ecosystem Onboarding: Consolidating Information, Centralizing Access, and Enhancing Transparency to Prevent Misuse" translate="no">​</a></h2>
+<p>The eIDAS regulation mandates the registration of organizations interacting
+with the RO Wallet Ecosystem. This requirement fosters transparency and helps
+prevent misuse or overasking personal data. The ecosystem
+registration concept centers on the registration of specific use cases and the
+declaration of intended uses.</p>
+<p>The RO Wallet Ecosystem prioritizes robust governance to ensure trust,
+security, and accountability among all ecosystem actors. A key aspect of this
+governance requirement is a streamlined ecosystem onboarding process,  which is
+essential for gaining access to the RO Wallet Ecosystem. In line with eIDAS, a &quot;relying party&quot; refers to any legal or natural person intending to
+interact with the RO Wallet. This term applies universally to organizations
+that need to register, regardless of whether their intended use involves
+receiving a PID, obtaining an (Q)EAA, or issuing an (Q)EAA to the ecosystem for
+use by other actors on behalf of the user.</p>
+<p><strong>How organisations join the ecosystem</strong></p>
+<p>Any institution, company or person that wants to request data from your wallet,
+or issue attestations to it, must register first. That way, you always know who
+is asking for your data and why.</p>
+<p>All relying parties register, such as public services, banks and online shops.
+So do identity and attestation providers, including qualified ones. Each
+registers in the country where it is established. A registration made in Romania
+is recognised by wallets across the European Union.</p>
+<p>For each service in which it wants to use the wallet, the organisation declares
+which data it will request and for what purpose. It is not allowed to ask for
+more. Your wallet shows you what the organisation declared, so you can check
+every request before you share anything. If an organisation asks for more than
+it declared, or if its registration details are no longer accurate, it can be
+suspended or removed from the register.</p>
+<p>In Romania, the Special Telecommunications Service (STS) developed and
+implemented the national registration system. Once the national legislation is
+adopted, STS will be designated as registrar. The system includes:</p>
+<ul>
+<li class=""><strong>the National Register of Wallet Relying Parties (RNBP)</strong>, which will become
+public after the legislation is adopted: you will be able to look it up at any
+time, and apps will be able to read it automatically;</li>
+<li class=""><strong>the registration portal</strong>, where organisations submit and update their details;</li>
+<li class=""><strong>access and registration certificates</strong>, which let your wallet recognise the
+organisation and check which data it is allowed to request.</li>
+</ul>
+<p><em>Legal basis: Article 5b of Regulation (EU) No 910/2014 (eIDAS), as amended by
+Regulation (EU) 2024/1183, and Commission Implementing Regulation (EU) 2025/848.</em></p>
+<p><strong>The described ecosystem onboarding process is consistent across various use
+cases and organizations seeking access to the RO Wallet Ecosystem. The
+following examples illustrate this process:</strong></p>
+<ul>
+<li class="">
+<p>KYC for Financial Services: A bank seeking to receive a PID (Personal
+Identification Data) for a KYC (Know Your Customer) process must register as a
+relying party and declare its intended use as “KYC for Anti-Money Laundering,”
+specifying the required data attributes necessary for its operations. Once the
+registration process is complete, the bank receives an access certificate for
+the authentication and a registration certificate for the intended use. During
+the use case (e.g., opening a bank account), the declared intended use is
+displayed to the new customer through his or her RO Wallet. If the requested
+data exceeds the declared intended use, the user is alerted and the process is
+aborted. This mechanism not only informs users but also helps identify
+potential misuse by relying parties.</p>
+</li>
+<li class="">
+<p>Pseudonym Login: An eCommerce platform requiring a pseudonymous login from the
+RO Wallet must register as a relying party to obtain an access
+certificate.This intended use are displayed to the users, ensuring
+transparency and enabling informed consent.</p>
+</li>
+<li class="">
+<p>QES/Payment authorization: For payment authorization or qualified electronic
+signature (QES) providers, the process involves registering to request a
+transaction authorization for authorizing signing contracts or payments. These
+intended uses are displayed to users, ensuring transparency and enabling
+informed consent.</p>
+</li>
+<li class="">
+<p>Issuing a Diploma: An educational institution, such as a university, aiming to
+issue a diploma to a student after graduation, must register as a relying
+party and declare its intended use as “Providing a University Diploma.” The
+issuing process must comply with the requirements defined in the institution&#x27;s
+or domain disclosure policy. This policy specifies the credential requirements
+and is the responsibility of the issuing organization, often influenced by
+regulatory or domain-specific standards. For instance, the education sector
+may define harmonized issuing requirements to standardize policies across
+institutions. This approach applies to other credentials as well, whether they
+are long-term and static (e.g., diplomas) or short-term and dynamic (e.g.,
+credit scores).</p>
+</li>
+</ul>
+<p>The ecosystem registration process facilitates collective oversight by ecosystem
+actors and regulators, leveraging transparency by design. Registered
+participants are subject to public monitoring and enforcement processes,
+ensuring swift and effective responses to violations. This collective approach
+strengthens trust within the ecosystem and promotes broader adoption by ensuring
+secure and reliable ecosystem interactions. The following examples illustrate
+how maximizing transparency effectively balances the flexibility required for
+ecosystem adoption with robust safeguards against misuse:</p>
+<ul>
+<li class="">Use-case restriction and user warnings: The RO Wallet only permits relying
+parties to offer use cases that are explicitly registered after receiving the
+access and registration certificate. If a mismatch occurs, users are
+proactively warned. However, users retain the ability to proceed based on
+their individual decisions, provided they make an active and informed choice.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="level-playing-field-regulation-the-foundation-for-user-choice-and-fair-competition-among-ecosystem-actors">Level-Playing Field Regulation: The Foundation for User Choice and Fair Competition Among Ecosystem Actors<a href="#level-playing-field-regulation-the-foundation-for-user-choice-and-fair-competition-among-ecosystem-actors" class="hash-link" aria-label="Direct link to Level-Playing Field Regulation: The Foundation for User Choice and Fair Competition Among Ecosystem Actors" title="Direct link to Level-Playing Field Regulation: The Foundation for User Choice and Fair Competition Among Ecosystem Actors" translate="no">​</a></h2>
+<p>The RO Wallet Ecosystem comprises multiple actors that must be aligned and
+interconnected. A critical factor for creating value is scaling the acceptance
+network within the cooperative space to expand the ecosystem&#x27;s reach.
+Establishing this acceptance network is essential for overcoming fragmentation,
+which often impedes user choice, fair competition, and scalability. For
+instance, EUDI wallet providers face challenges in sourcing credentials from
+diverse providers and ensuring that relying parties effectively utilize these
+credentials in various business use cases. This is crucial for creating value
+for users who hold the credentials and for convincing them that the EUDI Wallet
+provider’s offering delivers tangible benefits. Therefore, alongside the
+technical and organizational development of the RO Wallet acceptance network,
+a regulatory cornerstone is essential: an “Level-Playing Field.”</p>
+<p>This framework ensures non-discriminatory access for all ecosystem actors,
+including EAA providers, EUDI Wallet providers, and relying parties. This
+regulatory principle enhances the acceptance reach by ensuring that all
+ecosystem actors benefit from each other&#x27;s individual activities, which align
+with collective interests of the cooperative space. It also lays the groundwork
+for fair competition within the ecosystem by preventing any dominant
+player - whether the government or a powerful non-government actor - from
+monopolizing the acceptance network. This safeguard ensures that the RO Wallet
+Ecosystem, built on the digital public wallet infrastructure and its acceptance
+network, cannot be exploited for private value capture at the expense of
+competitors and users. Therefore, it ensures the collective public interest by
+preventing monopolization attempts that could arise from the “winner-takes-all”
+dynamics of the RO Wallet Ecosystem. These dynamics are driven by the
+underlying network effects and are well-known from network infrastructures (e.g.
+telecommunication) and digital platform markets (e.g. mobile payments)</p>
+<p>As outlined in Section 4: Splitting Responsibilities for defining the boundaries
+of the “Level-Playing-Field” regulation a differentiation in the ecosystem
+operating model and individual business models of Ecosystem Technology Service
+Providers and Qualified Trust Service Providers is needed. The
+“Level-Playing-Field” regulation applies to the ecosystem operating model, while
+the business relationships of Ecosystem Technology Service Providers/Qualified
+Trust Service Providers and actors that participate in the EU wallet ecosystem
+are governed by market mechanisms and fall outside the scope of the RO Wallet
+Ecosystem&#x27;s governance. The business model for Ecosystem Technology Service
+Providers and Qualified Trust Service Providers focuses on delivering products
+and services that enable organizations to engage with and participate in the
+RO Wallet Ecosystem. These providers are compensated for their offerings by
+the individual organizations with whom they have established business
+relationships. Figure 2 illustrates these interrelationships.</p>
+<p><img decoding="async" loading="lazy" alt="Level-Playing-Field
+Regulation." src="/rowallet-blueprint/assets/images/EGOM_Figure 6_Equal Level Playing Field-5e2403367ae494499d7b62096aa82958.png" width="1728" height="831" class="img_ev3q"></p>
+<p><em>Figure 6: Differentiation Between Level-Playing-Field Regulation and Market
+Mechanisms</em></p>
+<p><strong>Illustrating Exemples of the &quot;Level-Playing Field&quot; regulation</strong></p>
+<p>Part of the “Level-Playing Field” regulation is that all EAA providers, EUDI
+wallet providers and relying parties need to register to get access to the
+ecosystem. To demonstrate the
+concept of the &quot;Level-Playing Field&quot; three illustrative examples are described:</p>
+<p>A Bank is using a PID for a KYC to enable users to open a bank account:</p>
+<ul>
+<li class="">In this case, the “Level-Playing-Field” regulation ensures that all EUDI
+wallet providers have equal acceptance network reach. A bank uses a PID
+(Personal Information Data) for KYC (Know Your Customer) purposes to enable
+users to open a bank account. In the context of the RO Wallet Ecosystem, the
+bank interacts with all certified EUDI Wallet providers. From an integration
+and user experience perspective, a &quot;Do it with my RO Wallet&quot; button will be
+available to seamlessly initiate the process. This ensures that users have the
+freedom to choose their preferred wallet provider, granting them ecosystem
+access through the acceptance network. Unlike the current reality where banks
+often select a specific identity service provider as their KYC partner, the
+RO Wallet Ecosystem shifts this power dynamic. Here, users bring their
+chosen &quot;EUDI Wallet provider&quot; to the bank, reflecting the user-centric
+approach. The bank can rely on the RO Wallet certification and the
+accompanying ecosystem governance to ensure that all providers meet the
+necessary regulatory requirements for KYC compliance. According to the
+principles of the &quot;Level-Playing-Field&quot; regulation, banks are prohibited from
+exclusively partnering with specific EUDI Wallet providers. This also helps
+prevent scenarios where a bank that is also an EUDI wallet provider could
+favor its own offering and effectively “privatize” the public ecosystem.
+Therefore, this restriction is vital to maintaining fair competition among
+wallet providers and safeguarding user choice, fostering a balanced and open
+ecosystem.</li>
+</ul>
+<p>An EAA Provider is issuing an Airline ticket or an Education diploma to enable
+users to hold the credential in their RO Wallet:</p>
+<ul>
+<li class="">In this case, the “Level-Playing-Field” regulation ensures that users can hold
+and manage their credentials in their RO Wallet, regardless of the specific
+wallet provider they choose. EAA Providers, such as airlines or educational
+institutions, are required to interact with all certified EUDI Wallet
+providers. They are prohibited from selecting or favoring a preferred partner,
+as this decision lies solely with the user. This approach prevents ecosystem
+fragmentation and monopolization while guaranteeing interoperability, which is
+essential for fostering fair competition and preserving user choice. From the
+user’s perspective, the “Level-Playing Field” ensures that EAAs issued by any
+provider can be seamlessly utilized, enabling a consistent and user-friendly
+experience across the ecosystem. However, it is the responsibility of the EAA providers to establish their
+issuing policies and define their business conditions for providing an EAA.</li>
+</ul>
+<p>An EUDI Wallet Provider needs to accept all EAAs from all providers and serve
+all relying parties that are part of the RO Wallet Ecosystem:</p>
+<ul>
+<li class="">In this case, the “Level-Playing-Field” regulation ensures that users can
+trust their EUDI wallet provider to service all EAA Providers and Relying
+Parties that are part of the RO Wallet Ecosystem and the underlying
+acceptance network. This ensures a seamless and inclusive experience for
+users, regardless of the source of their credentials or the relying party they
+wish to interact with. This obligation prevents exclusivity and favoritism,
+upholds user choice and fair competition, and ensures that all ecosystem
+actors operate on an level-playing field. However, based on eIDAS
+regulation the EUDI wallet providers only get access to the PID of the Member
+State they are certified in.</li>
+</ul>
+<p><strong>Implementing the “Level-Playing-Field” Regulation and Implications for EUDI
+Wallet Provider Business Models</strong></p>
+<p>The “Level-Playing-Field” Regulation is a core principle of the RO Wallet
+Ecosystem and all ecosystem actors (public and private) and all ecosystem roles
+(Provider, EUDI wallet provider, Relying Party) are obliged to the requirement.</p>
+<p><strong>Implication for potential providers to offer the EUDI Wallets free of charge</strong></p>
+<p>The eIDAS regulation mandates that EUDI wallets must be provided free of
+charge to natural persons. To ensure an level-playing field while promoting
+differentiation and competition among EUDI wallet providers, the
+regulatory-defined scope of the wallet plays a pivotal role (see Section 4:
+Splitting Responsibilities). This scope establishes the foundational features
+and interoperability requirements necessary to uphold the principles of the
+&quot;Level-Playing Field&quot; regulation. While the core scope of the RO Wallet falls
+under the eIDAS requirement for free access, providers are permitted to
+develop additional services and features beyond this core. These value-added
+offerings are not subject to the eIDAS regulation and its corresponding
+certification and may form the basis of chargeable services, enabling providers
+to establish sustainable business models. From the user’s perspective, wallet
+applications will include the regulated core features to ensure security and
+privacy but may also offer enhanced functionalities and services beyond the RO
+Wallet scope, tailored to specific needs and use cases. More details and
+examples are described in Section 4: Splitting Responsibilities.</p>
+<p><strong>Implication for legal relationships between ecosystem roles</strong> The outlined
+&quot;Level-Playing-Field&quot; regulation principles necessitate defining legal
+relationships between roles at the ecosystem level. This ensures that legal
+issues are not determined on a case-by-case basis between individual
+organizations and roles. Instead, the RO Wallet Ecosystem will operate under a
+harmonized legal framework, which requires further detailed definition.</p>
+<p><strong>Implication for potential EUDI wallet providers to provide Qualified
+Electronic Signatures (QES) for non-professional use free of charge</strong></p>
+<p>The eIDAS regulation mandates that EUDI wallets must enable the user to sign by means of Qualified
+Electronic Signatures (QES) free of charge for non-professional purposes. This
+applies to the RO Wallet-centric QES scenario, where the management of
+qualified certificates is integrated into the RO Wallet. Differentiating between professional and non-professional usage
+presents a challenge and requires further work such as defining a dedicated national attribute in the National Register of Wallet Relying Parties (RNBP), separate from the &quot;IntendedUse&quot; and &quot;Entitlements&quot; fields, to carry the professional/non-professional signing context.</p>
+<p><strong>Implication for smartphone manufacturers to ensure fair competition with third
+party EUDI wallet providers</strong></p>
+<p>From the perspective of EUDI wallet providers, the &quot;Level-Playing-Field&quot;
+regulation must prioritize ensuring the visibility and accessibility of wallet
+options for potential users. Smartphone manufacturers, who can pre-install an
+(EUDI) wallet offering as part of their operating system, gain a significant
+competitive advantage, as these wallets are readily available during the initial
+device setup. To uphold the &quot;Level-Playing-Field&quot; principle, it is crucial to
+prohibit exclusive bundling practices that unfairly benefit smartphone
+manufacturers at the expense of third-party competitors. Users must have the
+freedom to select their preferred EUDI wallet provider, following a model
+similar to the browser choice approach in the European Union. Additionally,
+competing EUDI wallet providers must be granted access to critical smartphone
+infrastructure functions and user features utilized by the incumbent RO Wallet
+(e.g. double tap on iPhones). Achieving this requires proactive action from
+national and European regulators to establish fair competition within the RO
+Wallet Ecosystem. Through industry dialogue and regulatory instruments, such as
+the Digital Markets Act, these measures must be achieved to ensure fair
+competition and lay the foundation for a balanced and open ecosystem where all
+EUDI wallet providers have fair opportunities to compete leading to choice for
+citizens.</p></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/rowallet-blueprint/content/ecosystem-vision-and-fundamentals/EUDI-value-proposition/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">RO Wallet Value Proposition</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/rowallet-blueprint/content/ecosystem-concepts/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">index</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#empowering-citizens-and-residents-real-choices-for-self-determination-with-safeguards-in-the-digital-realm" class="table-of-contents__link toc-highlight">Empowering Citizens and Residents: Real Choices for Self-Determination with Safeguards in the Digital Realm</a></li><li><a href="#driving-societal-progress-the-ro-wallet-infrastructure-is-a-foundational-digital-public-infrastructure-for-society" class="table-of-contents__link toc-highlight">Driving Societal Progress: The RO Wallet Infrastructure is a Foundational Digital Public Infrastructure for Society</a></li><li><a href="#splitting-responsibilities-differentiation-between-a-government-cooperative-and-competitive-space-for-efficient-collaboration" class="table-of-contents__link toc-highlight">Splitting Responsibilities: Differentiation between a Government, Cooperative and Competitive Space for Efficient Collaboration</a><ul><li><a href="#eudi-wallet-providers" class="table-of-contents__link toc-highlight">EUDI Wallet Providers</a></li><li><a href="#ecosystem-technology-service-providers" class="table-of-contents__link toc-highlight">Ecosystem (Technology) Service Providers</a></li><li><a href="#domain-organization-and-governance" class="table-of-contents__link toc-highlight">Domain organization and governance</a></li></ul></li><li><a href="#ecosystem-onboarding-consolidating-information-centralizing-access-and-enhancing-transparency-to-prevent-misuse" class="table-of-contents__link toc-highlight">Ecosystem Onboarding: Consolidating Information, Centralizing Access, and Enhancing Transparency to Prevent Misuse</a></li><li><a href="#level-playing-field-regulation-the-foundation-for-user-choice-and-fair-competition-among-ecosystem-actors" class="table-of-contents__link toc-highlight">Level-Playing Field Regulation: The Foundation for User Choice and Fair Competition Among Ecosystem Actors</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 <a href="https://www.mai.gov.ro/">MAI-DGCTI</a><br>Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></div></footer></div>
+</body>
+</html>
