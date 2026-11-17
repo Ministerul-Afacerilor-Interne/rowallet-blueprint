@@ -1,0 +1,26 @@
+NOTICE
+
+This repository is the Romanian (RO) adaptation of the German EUDI Wallet
+architecture documentation.
+
+Source:       Blueprint for the EUDI Wallet Ecosystem in Germany
+              (eidas-2.0-architekturkonzept)
+Source repo:  https://gitlab.opencode.de/bmi/eudi-wallet/eidas-2.0-architekturkonzept
+Copyright:    © German Federal Ministry of the Interior (BMI)
+              © 2025 German Federal Ministry for Digital Transformation and
+              Government Modernisation (BMDS)
+Licence:      Creative Commons Attribution 4.0 International (CC BY 4.0)
+              https://creativecommons.org/licenses/by/4.0/
+Baseline:     v2.13.0, tag de/2.13.0-0d2a9ff (commit 0d2a9ffb4f81b3064b0591a6d9541e7019aa7da1)
+
+This documentation is an adapted version of the original. Modified passages
+carry an invisible "RO modification" comment in the source files. See
+ATTRIBUTION.md for the full attribution and the nature of the adaptation.
+
+The unmodified German source is kept in the branch main_upstream.
+
+The licence covers the documentation only. Third-party material (e.g. diagrams,
+ARF/standards excerpts) may be subject to separate terms.
+
+This adaptation is not endorsed by, and does not imply endorsement by, the
+BMI, BMDS or the German National EUDI Wallet project.

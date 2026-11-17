@@ -1,0 +1,21 @@
+{
+    "name": "eIDAS 2.0 Architecture Concept",
+    "dockerComposeFile": "docker-compose.devcontainer.yml",
+    "service": "devcontainer",
+    "workspaceFolder": "/workspace",
+    "forwardPorts": [3000, 8080],
+    "postCreateCommand": "npm ci",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "davidanson.vscode-markdownlint",
+                "jebbs.plantuml",
+                "yzhang.markdown-all-in-one"
+            ],
+            "settings": {}
+        }
+    },
+    "containerEnv": {
+        "PUML_URL": "http://plantuml-server:8080/plantuml"
+    }
+}

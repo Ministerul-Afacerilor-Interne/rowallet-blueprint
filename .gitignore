@@ -1,0 +1,10 @@
+.idea/
+**/.DS_Store
+*.drawio.bkp
+venv/
+public/
+node_modules/
+.cache/
+build/
+.docusaurus/
+static/generated/plantuml/

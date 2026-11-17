@@ -1,0 +1,61 @@
+const redirect = (from, to) => ({ from: `/${from}/`, to: `/${to}/` });
+
+module.exports = [
+    redirect(
+        "flows/PID-IssuerSigned-cloud",
+        "content/features/PID/runtime-views",
+    ),
+    redirect(
+        "02-egom",
+        "content/ecosystem-vision-and-fundamentals/governance-and-operation-model",
+    ),
+    redirect(
+        "04-privacy-and-security",
+        "content/ecosystem-concepts/crosscutting-concepts/privacy-requirements",
+    ),
+    redirect(
+        "content/ecosystem-vision-and-fundamentals/national-paving",
+        "content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem",
+    ),
+    redirect(
+        "content/ecosystem-vision-and-fundamentals/ecosystem-design-principles",
+        "content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem",
+    ),
+    redirect(
+        "content/ecosystem-vision-and-fundamentals/branding",
+        "content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem",
+    ),
+    redirect(
+        "content/ecosystem-vision-and-fundamentals/the-roadmap",
+        "content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem",
+    ),
+    redirect(
+        "content/ecosystem-governance-and-operation-model/measurement-and-kpis",
+        "content/ecosystem-vision-and-fundamentals/governance-and-operation-model",
+    ),
+    redirect(
+        "content/ecosystem-governance-and-operation-model/sandboxing-staging-environments",
+        "content/ecosystem-vision-and-fundamentals/governance-and-operation-model",
+    ),
+    redirect(
+        "content/ecosystem-governance-and-operation-model/change-management",
+        "content/ecosystem-vision-and-fundamentals/governance-and-operation-model",
+    ),
+    redirect(
+        "content/ecosystem-governance-and-operation-model/certification-and-recertification",
+        "content/ecosystem-vision-and-fundamentals/governance-and-operation-model",
+    ),
+    redirect(
+        "content/ecosystem-governance-and-operation-model/support",
+        "content/ecosystem-vision-and-fundamentals/governance-and-operation-model",
+    ),
+    redirect(
+        "content/ecosystem-concepts/solution-strategy",
+        "content/ecosystem-concepts/introduction-and-goals",
+    ),
+    // Removed in RO Wallet -- 19 legacy redirects from German "content/appendix/..." and "content/archive/..." URLs (15 to archive pages, 4 to live pages); these URLs never existed on the RO site
+    redirect(
+        "content/ecosystem-governance-and-operation-model",
+        "content/ecosystem-vision-and-fundamentals/governance-and-operation-model",
+    ),
+];

@@ -1,0 +1,69 @@
+# Release manifest. true = published, false = replaced by a "Planned update" placeholder
+# when a release branch is prepared (npm run release:prepare). index.md is always published.
+# Paths are relative to architecture-proposal/. An entry ending in "/" covers everything below
+# that folder; a more specific entry wins. Every page must be listed.
+# The "exclude" list at the end applies to the whole repository.
+
+# Top level
+how-to-read-the-blueprint.md: true
+content/glossary.md: true
+
+# Ecosystem Vision & Fundamentals
+content/ecosystem-vision-and-fundamentals/what-is-the-ecosystem.md: true
+content/ecosystem-vision-and-fundamentals/what-is-the-wallet.md: true
+content/ecosystem-vision-and-fundamentals/standards.md: true
+content/ecosystem-vision-and-fundamentals/EUDI-value-proposition.md: true
+content/ecosystem-vision-and-fundamentals/governance-and-operation-model.md: true
+
+# Ecosystem Concepts
+content/ecosystem-concepts/index.md: false
+content/ecosystem-concepts/introduction-and-goals.md: false
+content/ecosystem-concepts/constraints-and-decisions.md: false
+content/ecosystem-concepts/building-block-view.md: false
+content/ecosystem-concepts/deployment-view.md: false
+content/ecosystem-concepts/crosscutting-concepts/privacy-requirements.md: false
+content/ecosystem-concepts/crosscutting-concepts/security-requirements.md: false
+content/ecosystem-concepts/trust/index.md: false
+content/ecosystem-concepts/trust/decision-guide.md: false
+content/ecosystem-concepts/trust/trust-validation.md: false
+content/ecosystem-concepts/trust/trust_pid_issuance_presentation.md: false
+content/ecosystem-concepts/trust/trust_eaa_issuance_presentation.md: false
+content/ecosystem-concepts/trust/trust_q_pub_eaa_issuance_presentation.md: false
+content/ecosystem-concepts/trust/wallet-relying-party-authentication.md: false
+content/ecosystem-concepts/trust/overasking-protection.md: false
+content/ecosystem-concepts/trust/status-management.md: false
+content/ecosystem-concepts/trust/pki-and-trust-anchor.md: false
+content/ecosystem-concepts/trust/national-trust-list.md: false
+
+# Features
+content/features/PID/ro-pid-rulebook.md: false
+content/features/PID/design-decisions.md: false
+content/features/PID/runtime-views.md: false
+content/features/EAA/index.md: false
+content/features/EAA/credential-anatomy.md: false
+content/features/EAA/design-recommendations.md: false
+content/features/EAA/catalog-of-attestations.md: false
+content/features/EAA/EAA-Issuance-OpenID4VC.md: false
+content/features/EAA/EAA-Presentation-OpenID4VC.md: false
+
+# Upcoming Features
+content/upcoming-features/index.md: false
+content/upcoming-features/qes/index.md: false
+
+# Archive (German-historical): one entry covers the whole folder
+content/archive/: false
+
+# Files and folders deleted on the release branch: internal, or not needed by the public version.
+# Paths are relative to the repository root; a folder ends in "/".
+exclude:
+  - CHANGELOG.md        # changelog of the German Blueprint
+  - CLA.docx            # contributor agreement of the German project
+  - CONTRIBUTING.md     # contribution process of the German project
+  - Dockerfile          # internal hosting
+  - MODIFICATIONS.md    # internal change log; the in-file "RO modification" notes stay
+  - .gitlab-ci.yml      # internal CI
+  - .gitlab/            # internal issue templates and changelog configuration
+  - .releaserc.json     # internal release pipeline; refers to CHANGELOG.md
+  - cog.toml            # internal changelog tooling; refers to CHANGELOG.md
+  - architecture-proposal/content/features/PID/german-pid-rulebook.md  # headings-only stub, not in the menu, German wording
+# Published files must not refer to an excluded path; release:verify fails if one does.
